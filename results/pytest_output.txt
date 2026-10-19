@@ -1,0 +1,184 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.12.14, pytest-9.1.1, pluggy-1.7.0 -- /Users/simon/University/stk-testing/.venv/bin/python
+rootdir: /Users/simon/University/stk-testing
+collecting ... collected 66 items
+
+tests/test_stk.py::test_F01_version PASSED                               [  1%]
+tests/test_stk.py::test_F02_help PASSED                                  [  3%]
+tests/test_stk.py::test_F03_normal_race PASSED                           [  4%]
+tests/test_stk.py::test_F04_time_trial PASSED                            [  6%]
+tests/test_stk.py::test_F05_follow_the_leader FAILED                     [  7%]
+tests/test_stk.py::test_F06_reverse_track PASSED                         [  9%]
+tests/test_stk.py::test_F07_difficulty[0] PASSED                         [ 10%]
+tests/test_stk.py::test_F07_difficulty[1] PASSED                         [ 12%]
+tests/test_stk.py::test_F07_difficulty[2] PASSED                         [ 13%]
+tests/test_stk.py::test_F07_difficulty[3] PASSED                         [ 15%]
+tests/test_stk.py::test_F08_every_track[abyss] PASSED                    [ 16%]
+tests/test_stk.py::test_F08_every_track[black_forest] PASSED             [ 18%]
+tests/test_stk.py::test_F08_every_track[candela_city] PASSED             [ 19%]
+tests/test_stk.py::test_F08_every_track[cocoa_temple] PASSED             [ 21%]
+tests/test_stk.py::test_F08_every_track[cornfield_crossing] PASSED       [ 22%]
+tests/test_stk.py::test_F08_every_track[fortmagma] PASSED                [ 24%]
+tests/test_stk.py::test_F08_every_track[gran_paradiso_island] PASSED     [ 25%]
+tests/test_stk.py::test_F08_every_track[hacienda] PASSED                 [ 27%]
+tests/test_stk.py::test_F08_every_track[lighthouse] PASSED               [ 28%]
+tests/test_stk.py::test_F08_every_track[mines] PASSED                    [ 30%]
+tests/test_stk.py::test_F08_every_track[minigolf] PASSED                 [ 31%]
+tests/test_stk.py::test_F08_every_track[olivermath] PASSED               [ 33%]
+tests/test_stk.py::test_F08_every_track[ravenbridge_mansion] PASSED      [ 34%]
+tests/test_stk.py::test_F08_every_track[sandtrack] PASSED                [ 36%]
+tests/test_stk.py::test_F08_every_track[scotland] PASSED                 [ 37%]
+tests/test_stk.py::test_F08_every_track[snowmountain] PASSED             [ 39%]
+tests/test_stk.py::test_F08_every_track[snowtuxpeak] PASSED              [ 40%]
+tests/test_stk.py::test_F08_every_track[stk_enterprise] PASSED           [ 42%]
+tests/test_stk.py::test_F08_every_track[volcano_island] PASSED           [ 43%]
+tests/test_stk.py::test_F08_every_track[xr591] PASSED                    [ 45%]
+tests/test_stk.py::test_F08_every_track[zengarden] PASSED                [ 46%]
+tests/test_stk.py::test_F09_every_kart[adiumy] PASSED                    [ 48%]
+tests/test_stk.py::test_F09_every_kart[amanda] PASSED                    [ 50%]
+tests/test_stk.py::test_F09_every_kart[beastie] PASSED                   [ 51%]
+tests/test_stk.py::test_F09_every_kart[emule] PASSED                     [ 53%]
+tests/test_stk.py::test_F09_every_kart[gavroche] PASSED                  [ 54%]
+tests/test_stk.py::test_F09_every_kart[gnu] PASSED                       [ 56%]
+tests/test_stk.py::test_F09_every_kart[hexley] PASSED                    [ 57%]
+tests/test_stk.py::test_F09_every_kart[kiki] PASSED                      [ 59%]
+tests/test_stk.py::test_F09_every_kart[konqi] PASSED                     [ 60%]
+tests/test_stk.py::test_F09_every_kart[nolok] PASSED                     [ 62%]
+tests/test_stk.py::test_F09_every_kart[pidgin] PASSED                    [ 63%]
+tests/test_stk.py::test_F09_every_kart[puffy] PASSED                     [ 65%]
+tests/test_stk.py::test_F09_every_kart[sara_the_racer] PASSED            [ 66%]
+tests/test_stk.py::test_F09_every_kart[sara_the_wizard] PASSED           [ 68%]
+tests/test_stk.py::test_F09_every_kart[suzanne] PASSED                   [ 69%]
+tests/test_stk.py::test_F09_every_kart[tux] PASSED                       [ 71%]
+tests/test_stk.py::test_F09_every_kart[wilber] PASSED                    [ 72%]
+tests/test_stk.py::test_F09_every_kart[xue] PASSED                       [ 74%]
+tests/test_stk.py::test_F10_battle_arena FAILED                          [ 75%]
+tests/test_stk.py::test_F11_soccer FAILED                                [ 77%]
+tests/test_stk.py::test_F12_unknown_track FAILED                         [ 78%]
+tests/test_stk.py::test_F13_unknown_kart PASSED                          [ 80%]
+tests/test_stk.py::test_F14_zero_laps PASSED                             [ 81%]
+tests/test_stk.py::test_F15_too_many_karts PASSED                        [ 83%]
+tests/test_stk.py::test_F16_zero_or_negative_karts[0] FAILED             [ 84%]
+tests/test_stk.py::test_F16_zero_or_negative_karts[-1] FAILED            [ 86%]
+tests/test_stk.py::test_F17_unknown_option FAILED                        [ 87%]
+tests/test_stk.py::test_F18_broken_config_file PASSED                    [ 89%]
+tests/test_stk.py::test_F19_unknown_grand_prix PASSED                    [ 90%]
+tests/test_stk.py::test_N01_startup_time PASSED                          [ 92%]
+tests/test_stk.py::test_N02_race_time PASSED                             [ 93%]
+tests/test_stk.py::test_N03_memory_use PASSED                            [ 95%]
+tests/test_stk.py::test_N04_many_karts PASSED                            [ 96%]
+tests/test_stk.py::test_N05_same_seed_same_result FAILED                 [ 98%]
+tests/test_stk.py::test_N06_long_race PASSED                             [100%]
+
+=================================== FAILURES ===================================
+__________________________ test_F05_follow_the_leader __________________________
+
+    def test_F05_follow_the_leader():
+        r = run_game(race("lighthouse", karts=5, extra=["--mode=4"]), "F05_follow_the_leader")
+>       assert not r.crashed() and not r.timed_out
+E       assert (not True)
+E        +  where True = crashed()
+E        +    where crashed = <conftest.Result object at 0x106dadc70>.crashed
+
+tests/test_stk.py:69: AssertionError
+____________________________ test_F10_battle_arena _____________________________
+
+    def test_F10_battle_arena():
+        r = run_game(["--track=battleisland", "--profile-time=30"], "F10_battle")
+>       assert not r.crashed() and not r.timed_out
+E       assert (not True)
+E        +  where True = crashed()
+E        +    where crashed = <conftest.Result object at 0x106d84e60>.crashed
+
+tests/test_stk.py:99: AssertionError
+_______________________________ test_F11_soccer ________________________________
+
+    def test_F11_soccer():
+        r = run_game(["--track=soccer_field", "--profile-time=30"], "F11_soccer")
+>       assert not r.crashed() and not r.timed_out
+E       assert (not True)
+E        +  where True = crashed()
+E        +    where crashed = <conftest.Result object at 0x106d853d0>.crashed
+
+tests/test_stk.py:105: AssertionError
+____________________________ test_F12_unknown_track ____________________________
+
+    def test_F12_unknown_track():
+        r = run_game(race("no_such_track", karts=2), "F12_unknown_track", timeout=60)
+        assert not r.crashed() and not r.timed_out
+        assert "no_such_track" in r.output       # user is told which name is wrong
+>       assert r.exit_code != 0                  # scripts can see that it failed
+        ^^^^^^^^^^^^^^^^^^^^^^^
+E       assert 0 != 0
+E        +  where 0 = <conftest.Result object at 0x106d85970>.exit_code
+
+tests/test_stk.py:116: AssertionError
+______________________ test_F16_zero_or_negative_karts[0] ______________________
+
+value = '0'
+
+    @pytest.mark.parametrize("value", ["0", "-1"])
+    def test_F16_zero_or_negative_karts(value):
+        r = run_game(race("lighthouse", karts=value), f"F16_numkarts_{value}", timeout=120)
+        assert not r.crashed() and not r.timed_out
+>       assert "Invalid" in r.output, "no warning about the invalid number of karts"
+E       AssertionError: no warning about the invalid number of karts
+E       assert 'Invalid' in "[debug] [FileManager]: Checking whether we are using an app bundle... \n[debug] [FileManager]: yes\n[info   ] [FileManager]: Creating directory(ies) '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-98rbs8v7/config-0.10/'\n[info   ] FileManager: Creating directory '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-98rbs8v7/config-0.10/'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Addons/'.\n[error  ] FileManager: Can not create add-ons dir '/Users/simon/Library/Application Support/SuperTuxKart/Addons/', falling back to '.'.\n[info   ] FileManager: Creating directory './icons/'.\n[info   ] FileManager: Creating directory './tmp/'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/'.\n[error  ] FileManager: Can not create screenshot directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/', falling back to '.'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/'.\n[error  ] FileManager: Can not create replay directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/', fall...1 1.00\n[verbose  ] profile: ---------------------------------------------------------------------------------------------------\n[verbose  ] profile: Skidding   +0      53.5389             0.00 0.00   0     0 0.00   0   4   0   1   0   0    61 1.00\n[verbose  ] profile: \n[info   ] Singleton: Destroyed singleton.\n[info   ] Singleton: Destroyed singleton.\n[info   ] Singleton: Destroyed singleton.\n        1.14 real         0.69 user         0.37 sys\n           126550016  maximum resident set size\n                   0  average shared memory size\n                   0  average unshared data size\n                   0  average unshared stack size\n                8766  page reclaims\n                  27  page faults\n                   0  swaps\n                   0  block input operations\n                   0  block output operations\n                   0  messages sent\n                   0  messages received\n                   0  signals received\n                   1  voluntary context switches\n                 650  involuntary context switches\n          8522147113  instructions retired\n          2083656064  cycles elapsed\n            61065344  peak memory footprint\n"
+E        +  where "[debug] [FileManager]: Checking whether we are using an app bundle... \n[debug] [FileManager]: yes\n[info   ] [FileManager]: Creating directory(ies) '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-98rbs8v7/config-0.10/'\n[info   ] FileManager: Creating directory '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-98rbs8v7/config-0.10/'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Addons/'.\n[error  ] FileManager: Can not create add-ons dir '/Users/simon/Library/Application Support/SuperTuxKart/Addons/', falling back to '.'.\n[info   ] FileManager: Creating directory './icons/'.\n[info   ] FileManager: Creating directory './tmp/'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/'.\n[error  ] FileManager: Can not create screenshot directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/', falling back to '.'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/'.\n[error  ] FileManager: Can not create replay directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/', fall...1 1.00\n[verbose  ] profile: ---------------------------------------------------------------------------------------------------\n[verbose  ] profile: Skidding   +0      53.5389             0.00 0.00   0     0 0.00   0   4   0   1   0   0    61 1.00\n[verbose  ] profile: \n[info   ] Singleton: Destroyed singleton.\n[info   ] Singleton: Destroyed singleton.\n[info   ] Singleton: Destroyed singleton.\n        1.14 real         0.69 user         0.37 sys\n           126550016  maximum resident set size\n                   0  average shared memory size\n                   0  average unshared data size\n                   0  average unshared stack size\n                8766  page reclaims\n                  27  page faults\n                   0  swaps\n                   0  block input operations\n                   0  block output operations\n                   0  messages sent\n                   0  messages received\n                   0  signals received\n                   1  voluntary context switches\n                 650  involuntary context switches\n          8522147113  instructions retired\n          2083656064  cycles elapsed\n            61065344  peak memory footprint\n" = <conftest.Result object at 0x106d85e20>.output
+
+tests/test_stk.py:141: AssertionError
+_____________________ test_F16_zero_or_negative_karts[-1] ______________________
+
+value = '-1'
+
+    @pytest.mark.parametrize("value", ["0", "-1"])
+    def test_F16_zero_or_negative_karts(value):
+        r = run_game(race("lighthouse", karts=value), f"F16_numkarts_{value}", timeout=120)
+        assert not r.crashed() and not r.timed_out
+>       assert "Invalid" in r.output, "no warning about the invalid number of karts"
+E       AssertionError: no warning about the invalid number of karts
+E       assert 'Invalid' in "[debug] [FileManager]: Checking whether we are using an app bundle... \n[debug] [FileManager]: yes\n[info   ] [FileManager]: Creating directory(ies) '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-cbf2dapm/config-0.10/'\n[info   ] FileManager: Creating directory '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-cbf2dapm/config-0.10/'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Addons/'.\n[error  ] FileManager: Can not create add-ons dir '/Users/simon/Library/Application Support/SuperTuxKart/Addons/', falling back to '.'.\n[info   ] FileManager: Creating directory './icons/'.\n[info   ] FileManager: Creating directory './tmp/'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/'.\n[error  ] FileManager: Can not create screenshot directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/', falling back to '.'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/'.\n[error  ] FileManager: Can not create replay directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/', fall...1 1.00\n[verbose  ] profile: ---------------------------------------------------------------------------------------------------\n[verbose  ] profile: Skidding   +0       51.481             0.00 0.00   0     0 0.00   0   3   0   1   0   0    61 1.00\n[verbose  ] profile: \n[info   ] Singleton: Destroyed singleton.\n[info   ] Singleton: Destroyed singleton.\n[info   ] Singleton: Destroyed singleton.\n        1.12 real         0.67 user         0.36 sys\n           125779968  maximum resident set size\n                   0  average shared memory size\n                   0  average unshared data size\n                   0  average unshared stack size\n                8719  page reclaims\n                  27  page faults\n                   0  swaps\n                   0  block input operations\n                   0  block output operations\n                   0  messages sent\n                   0  messages received\n                   0  signals received\n                   0  voluntary context switches\n                 649  involuntary context switches\n          8430540454  instructions retired\n          2050578437  cycles elapsed\n            60295296  peak memory footprint\n"
+E        +  where "[debug] [FileManager]: Checking whether we are using an app bundle... \n[debug] [FileManager]: yes\n[info   ] [FileManager]: Creating directory(ies) '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-cbf2dapm/config-0.10/'\n[info   ] FileManager: Creating directory '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-cbf2dapm/config-0.10/'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Addons/'.\n[error  ] FileManager: Can not create add-ons dir '/Users/simon/Library/Application Support/SuperTuxKart/Addons/', falling back to '.'.\n[info   ] FileManager: Creating directory './icons/'.\n[info   ] FileManager: Creating directory './tmp/'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/'.\n[error  ] FileManager: Can not create screenshot directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/', falling back to '.'.\n[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/'.\n[error  ] FileManager: Can not create replay directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/', fall...1 1.00\n[verbose  ] profile: ---------------------------------------------------------------------------------------------------\n[verbose  ] profile: Skidding   +0       51.481             0.00 0.00   0     0 0.00   0   3   0   1   0   0    61 1.00\n[verbose  ] profile: \n[info   ] Singleton: Destroyed singleton.\n[info   ] Singleton: Destroyed singleton.\n[info   ] Singleton: Destroyed singleton.\n        1.12 real         0.67 user         0.36 sys\n           125779968  maximum resident set size\n                   0  average shared memory size\n                   0  average unshared data size\n                   0  average unshared stack size\n                8719  page reclaims\n                  27  page faults\n                   0  swaps\n                   0  block input operations\n                   0  block output operations\n                   0  messages sent\n                   0  messages received\n                   0  signals received\n                   0  voluntary context switches\n                 649  involuntary context switches\n          8430540454  instructions retired\n          2050578437  cycles elapsed\n            60295296  peak memory footprint\n" = <conftest.Result object at 0x106d86e70>.output
+
+tests/test_stk.py:141: AssertionError
+___________________________ test_F17_unknown_option ____________________________
+
+    def test_F17_unknown_option():
+        r = run_game(["--numkart=5", "--version"], "F17_unknown_option", timeout=60)
+        assert not r.crashed()
+>       assert "--numkart" in r.output, "the typo in the option was not reported"
+E       AssertionError: the typo in the option was not reported
+E       assert '--numkart' in '[info   ] main: ==============================\n[info   ] main: SuperTuxKart, git.\n[info   ] main: ==============================\n        0.09 real         0.08 user         0.00 sys\n            17907712  maximum resident set size\n                   0  average shared memory size\n                   0  average unshared data size\n                   0  average unshared stack size\n                1482  page reclaims\n                   7  page faults\n                   0  swaps\n                   0  block input operations\n                   0  block output operations\n                   0  messages sent\n                   0  messages received\n                   0  signals received\n                   0  voluntary context switches\n                  12  involuntary context switches\n           617590792  instructions retired\n           175134017  cycles elapsed\n             3835008  peak memory footprint\n'
+E        +  where '[info   ] main: ==============================\n[info   ] main: SuperTuxKart, git.\n[info   ] main: ==============================\n        0.09 real         0.08 user         0.00 sys\n            17907712  maximum resident set size\n                   0  average shared memory size\n                   0  average unshared data size\n                   0  average unshared stack size\n                1482  page reclaims\n                   7  page faults\n                   0  swaps\n                   0  block input operations\n                   0  block output operations\n                   0  messages sent\n                   0  messages received\n                   0  signals received\n                   0  voluntary context switches\n                  12  involuntary context switches\n           617590792  instructions retired\n           175134017  cycles elapsed\n             3835008  peak memory footprint\n' = <conftest.Result object at 0x106d87800>.output
+
+tests/test_stk.py:147: AssertionError
+________________________ test_N05_same_seed_same_result ________________________
+
+    def test_N05_same_seed_same_result():
+        a = run_game(race("lighthouse", karts=4, seed=123), "N05_seed_run1")
+        b = run_game(race("lighthouse", karts=4, seed=123), "N05_seed_run2")
+        save_measurement("N05_results", {"run1": a.finishers(), "run2": b.finishers()})
+>       assert a.finishers() == b.finishers()
+E       AssertionError: assert [('konqi', 3,...', 4, 60.582)] == [('konqi', 2,..., 4, 60.1487)]
+E         
+E         At index 0 diff: ('konqi', 3, 55.9163) != ('konqi', 2, 53.6889)
+E         
+E         Full diff:
+E           [
+E               (
+E                   'konqi',...
+E         
+E         ...Full output truncated (33 lines hidden), use '-vv' to show
+
+tests/test_stk.py:199: AssertionError
+-- generated xml file: /Users/simon/University/stk-testing/results/junit.xml ---
+=========================== short test summary info ============================
+FAILED tests/test_stk.py::test_F05_follow_the_leader - assert (not True)
+FAILED tests/test_stk.py::test_F10_battle_arena - assert (not True)
+FAILED tests/test_stk.py::test_F11_soccer - assert (not True)
+FAILED tests/test_stk.py::test_F12_unknown_track - assert 0 != 0
+FAILED tests/test_stk.py::test_F16_zero_or_negative_karts[0] - AssertionError...
+FAILED tests/test_stk.py::test_F16_zero_or_negative_karts[-1] - AssertionErro...
+FAILED tests/test_stk.py::test_F17_unknown_option - AssertionError: the typo ...
+FAILED tests/test_stk.py::test_N05_same_seed_same_result - AssertionError: as...
+=================== 8 failed, 58 passed in 123.58s (0:02:03) ===================

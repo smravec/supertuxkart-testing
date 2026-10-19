@@ -1,0 +1,11 @@
+# Game source, assets and downloads are big - get them yourself (see README)
+stk-code/
+stk-assets/
+downloads/
+*.log
+!results/**/*.log
+.venv/
+__pycache__/
+.pytest_cache/
+*.docx
+.DS_Store

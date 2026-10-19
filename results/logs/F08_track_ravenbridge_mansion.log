@@ -1,0 +1,1179 @@
+/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/MacOS/supertuxkart --no-graphics --no-sound --log=0 --track=ravenbridge_mansion --numkarts=3 --profile-laps=1 --seed=1
+
+[debug] [FileManager]: Checking whether we are using an app bundle... 
+[debug] [FileManager]: yes
+[info   ] [FileManager]: Creating directory(ies) '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-7j6_jxrr/config-0.10/'
+[info   ] FileManager: Creating directory '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-7j6_jxrr/config-0.10/'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Addons/'.
+[error  ] FileManager: Can not create add-ons dir '/Users/simon/Library/Application Support/SuperTuxKart/Addons/', falling back to '.'.
+[info   ] FileManager: Creating directory './icons/'.
+[info   ] FileManager: Creating directory './tmp/'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/'.
+[error  ] FileManager: Can not create screenshot directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/', falling back to '.'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/'.
+[error  ] FileManager: Can not create replay directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/', falling back to '.'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/CachedTextures/'.
+[error  ] FileManager: Can not create cached textures directory '/Users/simon/Library/Application Support/SuperTuxKart/CachedTextures/', falling back to '.'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/grandprix/'.
+[error  ] FileManager: Can not create user-defined grand prix directory '/Users/simon/Library/Application Support/SuperTuxKart/grandprix/', falling back to '.'.
+[verbose  ] main: Error messages and other text output will be logged to /var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-7j6_jxrr/config-0.10/stdout.log.
+[info   ] UserConfig: Could not read user config file '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-7j6_jxrr/config-0.10/config.xml'.  A new file will be created.
+[info   ] [FileManager]: Data files will be fetched from: '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/'
+[info   ] [FileManager]: Data files will be fetched from: '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/'
+[info   ] [FileManager]: User directory is '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-7j6_jxrr/config-0.10/'.
+[info   ] [FileManager]: Addons files will be stored in './'.
+[info   ] [FileManager]: Screenshots will be stored in '.'.
+[info   ] [FileManager]: User-defined grand prix will be stored in '.'.
+[info   ] [FileManager]: Asset 0 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/challenges/'.
+[info   ] [FileManager]: Asset 1 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gfx/'.
+[info   ] [FileManager]: Asset 2 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/'.
+[info   ] [FileManager]: Asset 3 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gui/icons/'.
+[info   ] [FileManager]: Asset 4 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gui/screens/'.
+[info   ] [FileManager]: Asset 5 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gui/dialogs/'.
+[info   ] [FileManager]: Asset 6 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/replay/'.
+[info   ] [FileManager]: Asset 7 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/shaders/'.
+[info   ] [FileManager]: Asset 8 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/skins/'.
+[info   ] [FileManager]: Asset 9 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/ttf/'.
+[info   ] [FileManager]: Asset 10 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/po/'.
+[info   ] [FileManager]: Asset 11 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/'.
+[info   ] [FileManager]: Asset 12 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/models/'.
+[info   ] [FileManager]: Asset 13 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/music/'.
+[info   ] [FileManager]: Asset 14 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/sfx/'.
+[info   ] [FileManager]: Asset 15 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/textures/'.
+[info   ] [FileManager]: Asset 16 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/tracks/'.
+[verbose  ] translation: Env var LANGUAGE = 'en_US.UTF-8'.
+[verbose  ] translation: Language 'English (United States)'.
+[info   ] main: STK using random seed (1)
+[info   ] ServerConfig: Could not read server config file '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-7j6_jxrr/config-0.10/server_config.xml'. A new file will be created.
+..:: Antarctica Rendering Engine 2.0 ::..
+[warn   ] irr_driver: Using the fixed pipeline (old GPU, or shaders disabled in options)
+[debug] InputManager: Initialising InputManager!
+[info   ] GUI: Loading skin data from file: /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/skins/classic/stkskin.xml
+[info   ] player_manager: A new players.xml file will be created.
+[info   ] Highscore Manager: New highscore file '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-7j6_jxrr/config-0.10/highscore.xml' created.
+
+[info   ] GrandPrixManager: Loading Grand Prix files from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/
+[debug] GrandPrixManager: Grand Prix '1_penguinplayground' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/1_penguinplayground.grandprix
+[debug] GrandPrixManager: Grand Prix '2_offthebeatentrack' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/2_offthebeatentrack.grandprix
+[debug] GrandPrixManager: Grand Prix '3_tothemoonandback' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/3_tothemoonandback.grandprix
+[debug] GrandPrixManager: Grand Prix '4_atworldsend' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/4_atworldsend.grandprix
+[debug] MaterialManager: Couldn't find cached SP material! Opening default adiumyshadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default amanda_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default godette-shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default emule_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default gavroche_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default gnushadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default hexley_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default kiki_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default konqi_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default nolokshadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default pidginshadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default puffy-shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default Pepper_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default sara-shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default tux_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default wilber_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default shadow.png!
+[verbose  ] main: You chose to start in track 'ravenbridge_mansion'.
+[verbose  ] main: 3 karts will be used.
+[verbose  ] main: Profiling 1 laps.
+[info   ] PlayerManager: Enforcing current player 'simon'.
+[verbose  ] RaceManager: Nb of karts=3, ghost karts:0 ai:2 players:1
+
+[debug] Graph: 2d node created, normal: -0.000572, 0.999967, 0.008106
+[debug] Graph: 2d node created, normal: -0.002143, 0.999858, 0.016740
+[debug] Graph: 2d node created, normal: -0.005519, 0.999601, 0.027699
+[debug] Graph: 2d node created, normal: -0.009899, 0.999303, 0.036004
+[debug] Graph: 2d node created, normal: -0.015801, 0.998925, 0.043578
+[debug] Graph: 2d node created, normal: -0.023298, 0.998471, 0.050124
+[debug] Graph: 2d node created, normal: -0.032353, 0.997946, 0.055287
+[debug] Graph: 2d node created, normal: -0.042278, 0.997418, 0.058052
+[debug] Graph: 2d node created, normal: -0.052671, 0.996898, 0.058479
+[debug] Graph: 2d node created, normal: -0.062345, 0.996478, 0.056075
+[debug] Graph: 2d node created, normal: -0.070879, 0.996153, 0.051533
+[debug] Graph: 2d node created, normal: -0.077281, 0.995988, 0.045126
+[debug] Graph: 2d node created, normal: -0.103994, 0.993752, 0.040527
+[debug] Graph: 2d node created, normal: -0.091298, 0.995794, 0.007705
+[debug] Graph: 2d node created, normal: -0.090362, 0.995907, -0.001913
+[debug] Graph: 2d node created, normal: -0.087637, 0.996097, -0.010497
+[debug] Graph: 2d node created, normal: -0.083552, 0.996346, -0.017694
+[debug] Graph: 2d node created, normal: -0.078841, 0.996614, -0.023345
+[debug] Graph: 2d node created, normal: -0.073607, 0.996934, -0.026555
+[debug] Graph: 2d node created, normal: -0.070340, 0.997181, -0.026110
+[debug] Graph: 2d node created, normal: -0.069130, 0.997348, -0.022752
+[debug] Graph: 2d node created, normal: -0.067950, 0.997520, -0.018337
+[debug] Graph: 2d node created, normal: -0.066804, 0.997671, -0.013792
+[debug] Graph: 2d node created, normal: -0.065974, 0.997781, -0.009009
+[debug] Graph: 2d node created, normal: -0.065526, 0.997844, -0.003838
+[debug] Graph: 2d node created, normal: -0.065131, 0.997875, 0.001779
+[debug] Graph: 2d node created, normal: -0.065171, 0.997843, 0.007940
+[debug] Graph: 2d node created, normal: -0.065354, 0.997751, 0.014921
+[debug] Graph: 2d node created, normal: -0.065523, 0.997588, 0.022916
+[debug] Graph: 2d node created, normal: -0.065606, 0.997325, 0.032238
+[debug] Graph: 2d node created, normal: -0.064633, 0.996994, 0.042721
+[debug] Graph: 2d node created, normal: -0.063174, 0.996485, 0.055026
+[debug] Graph: 2d node created, normal: -0.059611, 0.995893, 0.068149
+[debug] Graph: 2d node created, normal: -0.054316, 0.995127, 0.082288
+[debug] Graph: 2d node created, normal: -0.046799, 0.994207, 0.096761
+[debug] Graph: 2d node created, normal: -0.036846, 0.993182, 0.110594
+[debug] Graph: 2d node created, normal: -0.025203, 0.991917, 0.124361
+[debug] Graph: 2d node created, normal: -0.013870, 0.989697, 0.142501
+[debug] Graph: 2d node created, normal: 0.001992, 0.989874, 0.141933
+[debug] Graph: 2d node created, normal: 0.019191, 0.989208, 0.145256
+[debug] Graph: 2d node created, normal: 0.034068, 0.988262, 0.148921
+[debug] Graph: 2d node created, normal: 0.044742, 0.991034, 0.125896
+[debug] Graph: 2d node created, normal: 0.055288, 0.993136, 0.103074
+[debug] Graph: 2d node created, normal: 0.067672, 0.993693, 0.089409
+[debug] Graph: 2d node created, normal: 0.079743, 0.993678, 0.079030
+[debug] Graph: 2d node created, normal: 0.085083, 0.994416, 0.062430
+[debug] Graph: 2d node created, normal: 0.088103, 0.995037, 0.046245
+[debug] Graph: 2d node created, normal: 0.112003, 0.991986, 0.058469
+[debug] Graph: 2d node created, normal: 0.125733, 0.989038, 0.077431
+[debug] Graph: 2d node created, normal: 0.072377, 0.996301, 0.046320
+[debug] Graph: 2d node created, normal: 0.058591, 0.997737, 0.032984
+[debug] Graph: 2d node created, normal: 0.057074, 0.998022, 0.026340
+[debug] Graph: 2d node created, normal: 0.055943, 0.998215, 0.020918
+[debug] Graph: 2d node created, normal: 0.055782, 0.998309, 0.016341
+[debug] Graph: 2d node created, normal: 0.053649, 0.998495, 0.011387
+[debug] Graph: 2d node created, normal: 0.045780, 0.998911, 0.008991
+[debug] Graph: 2d node created, normal: 0.052117, 0.998593, 0.009784
+[debug] Graph: 2d node created, normal: 0.052000, 0.998625, 0.006554
+[debug] Graph: 2d node created, normal: 0.051955, 0.998644, 0.003355
+[debug] Graph: 2d node created, normal: 0.050574, 0.998720, -0.000598
+[debug] Graph: 2d node created, normal: 0.046624, 0.998898, -0.005316
+[debug] Graph: 2d node created, normal: 0.041177, 0.999103, -0.009922
+[debug] Graph: 2d node created, normal: 0.034311, 0.999321, -0.013446
+[debug] Graph: 2d node created, normal: 0.026526, 0.999534, -0.015116
+[debug] Graph: 2d node created, normal: 0.018800, 0.999717, -0.014582
+[debug] Graph: 2d node created, normal: 0.012453, 0.999844, -0.012499
+[debug] Graph: 2d node created, normal: 0.007800, 0.999923, -0.009640
+[debug] Graph: 2d node created, normal: 0.004688, 0.999966, -0.006730
+[debug] Graph: 2d node created, normal: 0.003367, 0.999981, -0.005234
+[debug] Graph: 2d node created, normal: 0.003368, 0.999981, -0.005236
+[debug] Graph: 2d node created, normal: 0.004694, 0.999966, -0.006739
+[debug] Graph: 2d node created, normal: 0.007811, 0.999923, -0.009653
+[debug] Graph: 2d node created, normal: 0.012480, 0.999844, -0.012527
+[debug] Graph: 2d node created, normal: 0.019132, 0.999707, -0.014841
+[debug] Graph: 2d node created, normal: 0.026582, 0.999532, -0.015149
+[debug] Graph: 2d node created, normal: 0.034654, 0.999307, -0.013579
+[debug] Graph: 2d node created, normal: 0.041249, 0.999099, -0.009937
+[debug] Graph: 2d node created, normal: 0.046914, 0.998885, -0.005349
+[debug] Graph: 2d node created, normal: 0.050826, 0.998707, -0.000603
+[debug] Graph: 2d node created, normal: 0.052976, 0.998590, 0.003410
+[debug] Graph: 2d node created, normal: 0.054340, 0.998499, 0.006830
+[debug] Graph: 2d node created, normal: 0.055949, 0.998379, 0.010471
+[debug] Graph: 2d node created, normal: 0.057543, 0.998235, 0.014664
+[debug] Graph: 2d node created, normal: 0.058789, 0.998082, 0.019421
+[debug] Graph: 2d node created, normal: 0.060070, 0.997882, 0.024965
+[debug] Graph: 2d node created, normal: 0.062376, 0.997554, 0.031560
+[debug] Graph: 2d node created, normal: 0.059982, 0.997496, 0.037477
+[debug] Graph: 2d node created, normal: 0.060967, 0.997017, 0.047325
+[debug] Graph: 2d node created, normal: 0.074305, 0.995100, 0.065228
+[debug] Graph: 2d node created, normal: 0.060114, 0.996334, 0.060869
+[debug] Graph: 2d node created, normal: 0.055661, 0.995903, 0.071262
+[debug] Graph: 2d node created, normal: 0.049484, 0.995452, 0.081406
+[debug] Graph: 2d node created, normal: 0.041379, 0.995049, 0.090361
+[debug] Graph: 2d node created, normal: 0.037584, 0.993165, 0.110500
+[debug] Graph: 2d node created, normal: 0.024112, 0.994212, 0.104691
+[debug] Graph: 2d node created, normal: 0.011959, 0.993812, 0.110434
+[debug] Graph: 2d node created, normal: -0.000698, 0.993322, 0.115370
+[debug] Graph: 2d node created, normal: -0.013439, 0.992411, 0.122229
+[debug] Graph: 2d node created, normal: -0.026408, 0.986268, 0.163029
+[debug] Graph: 2d node created, normal: -0.025422, 0.992210, 0.121952
+[debug] Graph: 2d node created, normal: -0.031606, 0.994060, 0.104145
+[debug] Graph: 2d node created, normal: -0.044379, 0.991321, 0.123746
+[debug] Graph: 2d node created, normal: -0.030036, 0.997087, 0.070112
+[debug] Graph: 2d node created, normal: -0.033957, 0.997550, 0.061156
+[debug] Graph: 2d node created, normal: -0.037103, 0.997903, 0.053032
+[debug] Graph: 2d node created, normal: -0.040226, 0.998110, 0.046458
+[debug] Graph: 2d node created, normal: -0.043177, 0.998236, 0.040741
+[debug] Graph: 2d node created, normal: -0.046956, 0.998233, 0.036414
+[debug] Graph: 2d node created, normal: -0.056596, 0.997791, 0.034797
+[debug] Graph: 2d node created, normal: -0.053914, 0.998207, 0.025995
+[debug] Graph: 2d node created, normal: -0.066467, 0.997502, 0.023928
+[debug] Graph: 2d node created, normal: -0.060837, 0.998019, 0.016021
+[debug] Graph: 2d node created, normal: -0.072371, 0.997270, 0.014696
+[debug] Graph: 2d node created, normal: -0.077679, 0.996934, 0.009451
+[debug] Graph: 2d node created, normal: -0.083666, 0.996486, 0.004055
+[debug] Graph: 2d node created, normal: -0.089202, 0.996012, -0.001617
+[debug] Graph: 2d node created, normal: -0.094528, 0.995494, -0.007499
+[debug] Graph: 2d node created, normal: -0.099555, 0.994957, -0.012203
+[debug] Graph: 2d node created, normal: -0.103607, 0.994541, -0.012410
+[debug] Graph: 2d node created, normal: -0.106513, 0.994286, -0.007069
+[debug] Graph: 2d node created, normal: -0.108724, 0.994071, 0.001670
+[debug] Graph: 2d node created, normal: -0.109283, 0.993930, 0.012658
+[debug] Graph: 2d node created, normal: -0.107470, 0.993873, 0.025813
+[debug] Graph: 2d node created, normal: -0.101891, 0.993975, 0.040394
+[debug] Graph: 2d node created, normal: -0.091697, 0.994279, 0.054773
+[debug] Graph: 2d node created, normal: -0.077521, 0.994733, 0.067056
+[debug] Graph: 2d node created, normal: -0.059951, 0.995425, 0.074390
+[debug] Graph: 2d node created, normal: -0.041992, 0.996222, 0.076012
+[debug] Graph: 2d node created, normal: -0.026060, 0.997037, 0.072377
+[debug] Graph: 2d node created, normal: -0.013489, 0.997832, 0.064416
+[debug] Graph: 2d node created, normal: -0.004896, 0.998474, 0.055005
+[debug] Graph: 2d node created, normal: -0.010169, 0.997413, 0.071162
+[debug] Graph: 2d node created, normal: -0.006720, 0.999419, 0.033407
+[debug] Graph: 2d node created, normal: -0.003689, 0.999663, 0.025697
+[debug] Graph: 2d node created, normal: -0.001816, 0.999825, 0.018608
+[debug] Graph: 2d node created, normal: -0.000761, 0.999922, 0.012437
+[debug] Graph: 2d node created, normal: -0.000233, 0.999975, 0.007123
+[debug] Graph: 2d node created, normal: -0.000031, 0.999998, 0.002159
+[debug] Graph: 2d node created, normal: 0.000012, 0.999922, -0.012510
+[debug] Graph: 2d node created, normal: -0.000006, 0.999923, -0.012399
+[debug] Graph: 2d node created, normal: -0.000011, 0.999922, -0.012507
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: 0.000861, 0.999917, -0.012863
+[debug] Graph: 2d node created, normal: 0.006183, 0.999232, -0.038697
+[debug] Graph: 2d node created, normal: 0.016591, 0.997929, -0.062157
+[debug] Graph: 2d node created, normal: 0.031135, 0.996072, -0.082899
+[debug] Graph: 2d node created, normal: 0.048503, 0.993834, -0.099707
+[debug] Graph: 2d node created, normal: 0.067748, 0.991308, -0.112779
+[debug] Graph: 2d node created, normal: 0.087720, 0.988656, -0.121923
+[debug] Graph: 2d node created, normal: 0.108052, 0.985869, -0.128015
+[debug] Graph: 2d node created, normal: 0.127960, 0.983087, -0.131023
+[debug] Graph: 2d node created, normal: 0.147421, 0.980274, -0.131646
+[debug] Graph: 2d node created, normal: 0.166096, 0.977500, -0.130026
+[debug] Graph: 2d node created, normal: 0.184262, 0.974678, -0.126689
+[debug] Graph: 2d node created, normal: 0.202040, 0.971771, -0.121821
+[debug] Graph: 2d node created, normal: 0.219172, 0.968854, -0.115265
+[debug] Graph: 2d node created, normal: 0.236038, 0.965819, -0.107143
+[debug] Graph: 2d node created, normal: 0.253084, 0.962525, -0.097440
+[debug] Graph: 2d node created, normal: 0.269691, 0.959134, -0.085614
+[debug] Graph: 2d node created, normal: 0.286673, 0.955357, -0.071500
+[debug] Graph: 2d node created, normal: 0.303635, 0.951234, -0.054402
+[debug] Graph: 2d node created, normal: 0.320215, 0.946817, -0.031620
+[debug] Graph: 2d node created, normal: 0.327752, 0.944763, 0.000780
+[debug] Graph: 2d node created, normal: 0.319898, 0.946691, 0.037976
+[debug] Graph: 2d node created, normal: 0.304334, 0.949872, 0.071587
+[debug] Graph: 2d node created, normal: 0.283524, 0.953924, 0.098203
+[debug] Graph: 2d node created, normal: 0.260202, 0.958323, 0.117945
+[debug] Graph: 2d node created, normal: 0.236151, 0.962768, 0.131571
+[debug] Graph: 2d node created, normal: 0.211994, 0.967233, 0.139713
+[debug] Graph: 2d node created, normal: 0.189018, 0.971408, 0.143659
+[debug] Graph: 2d node created, normal: 0.167256, 0.975333, 0.144054
+[debug] Graph: 2d node created, normal: 0.146830, 0.978984, 0.141529
+[debug] Graph: 2d node created, normal: 0.169545, 0.968700, 0.181314
+[debug] Graph: 2d node created, normal: 0.168686, 0.965373, 0.198999
+[debug] Graph: 2d node created, normal: 0.149203, 0.969702, 0.193433
+[debug] Graph: 2d node created, normal: 0.093974, 0.986565, 0.133634
+[debug] Graph: 2d node created, normal: 0.110027, 0.979000, 0.171619
+[debug] Graph: 2d node created, normal: 0.126795, 0.967822, 0.217354
+[debug] Graph: 2d node created, normal: 0.047434, 0.994837, 0.089719
+[debug] Graph: 2d node created, normal: 0.087511, 0.979059, 0.183808
+[debug] Graph: 2d node created, normal: 0.013865, 0.999371, 0.032646
+[debug] Graph: 2d node created, normal: 0.041816, 0.992848, 0.111822
+[debug] Graph: 2d node created, normal: 0.061166, 0.981990, 0.178759
+[debug] Graph: 2d node created, normal: 0.128041, 0.961676, 0.242455
+[debug] Graph: 2d node created, normal: 0.125811, 0.976105, 0.177172
+[debug] Graph: 2d node created, normal: 0.103070, 0.981293, 0.162607
+[debug] Graph: 2d node created, normal: 0.063048, 0.992593, 0.103843
+[debug] Graph: 2d node created, normal: 0.033836, 0.999179, 0.022292
+[debug] Graph: 2d node created, normal: 0.011098, 0.999921, 0.005955
+[debug] Graph: 2d node created, normal: -0.004090, 0.999987, -0.003057
+[debug] Graph: 2d node created, normal: -0.006037, 0.999909, -0.012085
+[debug] Graph: 2d node created, normal: -0.004197, 0.999863, -0.016035
+[debug] Graph: 2d node created, normal: -0.002145, 0.999461, -0.032745
+[debug] Graph: 2d node created, normal: 0.014362, 0.999407, -0.031303
+[debug] Graph: 2d node created, normal: 0.032920, 0.998930, -0.032496
+[debug] Graph: 2d node created, normal: 0.024159, 0.999393, -0.025084
+[debug] Graph: 2d node created, normal: 0.026473, 0.998891, -0.038943
+[debug] Graph: 2d node created, normal: 0.044405, 0.998550, -0.030422
+[debug] Graph: 2d node created, normal: 0.052432, 0.998476, -0.017223
+[debug] Graph: 2d node created, normal: 0.038426, 0.999041, -0.021007
+[debug] Graph: 2d node created, normal: 0.038966, 0.998809, -0.029360
+[debug] Graph: 2d node created, normal: 0.027621, 0.999215, -0.028411
+[debug] Graph: 2d node created, normal: 0.026586, 0.998975, -0.036634
+[debug] Graph: 2d node created, normal: 0.021915, 0.999074, -0.037018
+[debug] Graph: 2d node created, normal: 0.015527, 0.999221, -0.036293
+[debug] Graph: 2d node created, normal: 0.007809, 0.999433, -0.032752
+[debug] Graph: 2d node created, normal: 0.000750, 0.999672, -0.025598
+[debug] Graph: 2d node created, normal: -0.002976, 0.999880, -0.015221
+[debug] Graph: 2d node created, normal: -0.001832, 0.999989, -0.004364
+[debug] Graph: 2d node created, normal: -0.003206, 0.999981, -0.005239
+[debug] Graph: 2d node created, normal: -0.011857, 0.999812, -0.015367
+[debug] Graph: 2d node created, normal: -0.022624, 0.999452, -0.024169
+[debug] Graph: 2d node created, normal: -0.035102, 0.998895, -0.031255
+[debug] Graph: 2d node created, normal: -0.047822, 0.998204, -0.036085
+[debug] Graph: 2d node created, normal: -0.059881, 0.997433, -0.039274
+[debug] Graph: 2d node created, normal: -0.070234, 0.996665, -0.041545
+[debug] Graph: 2d node created, normal: -0.078189, 0.995974, -0.043830
+[debug] Graph: 2d node created, normal: -0.083238, 0.995424, -0.046933
+[debug] Graph: 2d node created, normal: -0.085160, 0.995038, -0.051446
+[debug] Graph: 2d node created, normal: -0.082624, 0.994965, -0.056724
+[debug] Graph: 2d node created, normal: -0.075744, 0.995192, -0.062089
+[debug] Graph: 2d node created, normal: -0.064201, 0.995796, -0.065339
+[debug] Graph: 2d node created, normal: -0.049699, 0.996660, -0.064805
+[debug] Graph: 2d node created, normal: -0.034563, 0.997634, -0.059425
+[debug] Graph: 2d node created, normal: -0.021390, 0.998517, -0.050061
+[debug] Graph: 2d node created, normal: -0.011498, 0.999203, -0.038219
+[debug] Graph: 2d node created, normal: -0.005132, 0.999651, -0.025906
+[debug] Graph: 2d node created, normal: -0.001673, 0.999892, -0.014579
+[debug] Graph: 2d node created, normal: -0.000144, 0.999990, -0.004452
+[debug] Graph: 2d node created, normal: -0.000709, 0.999958, 0.009168
+[debug] Graph: 2d node created, normal: -0.004993, 0.999705, 0.023782
+[debug] Graph: 2d node created, normal: -0.011142, 0.999391, 0.033063
+[debug] Graph: 2d node created, normal: -0.017312, 0.999104, 0.038617
+[debug] Graph: 2d node created, normal: -0.022722, 0.998884, 0.041409
+[debug] Graph: 2d node created, normal: -0.027141, 0.998737, 0.042277
+[debug] Graph: 2d node created, normal: -0.030683, 0.998648, 0.041967
+[debug] Graph: 2d node created, normal: -0.033160, 0.998629, 0.040502
+[debug] Graph: 2d node created, normal: -0.034767, 0.998661, 0.038314
+[debug] Graph: 2d node created, normal: -0.035358, 0.998749, 0.035363
+[debug] Graph: 2d node created, normal: -0.035168, 0.998869, 0.031992
+[debug] Graph: 2d node created, normal: -0.033987, 0.999027, 0.028099
+[debug] Graph: 2d node created, normal: -0.031724, 0.999215, 0.023741
+[debug] Graph: 2d node created, normal: -0.028235, 0.999421, 0.018981
+[debug] Graph: 2d node created, normal: -0.023515, 0.999625, 0.014034
+[debug] Graph: 2d node created, normal: -0.016922, 0.999818, 0.008805
+[debug] Graph: 2d node created, normal: -0.008539, 0.999956, 0.003768
+[debug] Graph: 2d node created, normal: 0.002083, 0.999997, -0.000746
+[debug] Graph: 2d node created, normal: 0.015656, 0.999869, -0.004216
+[debug] Graph: 2d node created, normal: 0.031924, 0.999474, -0.005715
+[debug] Graph: 2d node created, normal: 0.041752, 0.999119, -0.004178
+[debug] Graph: 2d node created, normal: 0.043026, 0.999073, -0.001581
+[debug] Graph: 2d node created, normal: 0.043859, 0.999037, 0.000864
+[debug] Graph: 2d node created, normal: 0.044146, 0.999020, 0.003331
+[debug] Graph: 2d node created, normal: 0.044296, 0.999001, 0.005823
+[debug] Graph: 2d node created, normal: 0.043780, 0.999007, 0.008263
+[debug] Graph: 2d node created, normal: 0.043243, 0.999007, 0.010741
+[debug] Graph: 2d node created, normal: 0.042011, 0.999031, 0.013097
+[debug] Graph: 2d node created, normal: 0.040451, 0.999063, 0.015390
+[debug] Graph: 2d node created, normal: 0.038521, 0.999103, 0.017585
+[debug] Graph: 2d node created, normal: 0.035806, 0.999170, 0.019428
+[debug] Graph: 2d node created, normal: 0.032899, 0.999235, 0.021140
+[debug] Graph: 2d node created, normal: 0.029166, 0.999328, 0.022220
+[debug] Graph: 2d node created, normal: 0.025006, 0.999429, 0.022720
+[debug] Graph: 2d node created, normal: 0.020487, 0.999538, 0.022463
+[debug] Graph: 2d node created, normal: 0.015577, 0.999658, 0.021006
+[debug] Graph: 2d node created, normal: 0.010768, 0.999773, 0.018402
+[debug] Graph: 2d node created, normal: 0.006361, 0.999875, 0.014467
+[debug] Graph: 2d node created, normal: -0.015167, 0.996297, -0.084623
+[debug] Graph: 2d node created, normal: -0.000016, 0.999260, 0.038474
+[debug] Graph: 2d node created, normal: -0.000008, 0.998474, 0.055223
+[debug] Graph: 2d node created, normal: 0.000006, 0.997466, 0.071150
+[debug] Graph: 2d node created, normal: 0.000028, 0.996266, 0.086342
+[debug] Graph: 2d node created, normal: 0.000050, 0.994951, 0.100364
+[debug] Graph: 2d node created, normal: 0.000066, 0.993769, 0.111460
+[debug] Graph: 2d node created, normal: 0.000082, 0.992799, 0.119795
+[debug] Graph: 2d node created, normal: 0.000096, 0.992346, 0.123485
+[debug] Graph: 2d node created, normal: 0.000096, 0.992306, 0.123811
+[debug] Graph: 2d node created, normal: 0.000082, 0.992837, 0.119473
+[debug] Graph: 2d node created, normal: 0.000066, 0.993738, 0.111738
+[debug] Graph: 2d node created, normal: 0.000046, 0.994986, 0.100017
+[debug] Graph: 2d node created, normal: 0.000024, 0.996244, 0.086592
+[debug] Graph: 2d node created, normal: 0.000003, 0.997448, 0.071392
+[debug] Graph: 2d node created, normal: -0.000010, 0.998490, 0.054935
+[debug] Graph: 2d node created, normal: -0.000016, 0.999251, 0.038700
+[debug] Graph: 2d node created, normal: -0.000006, 0.999944, 0.010562
+[debug] Graph: 2d node created, normal: -0.000017, 0.999638, 0.026923
+[debug] Graph: 2d node created, normal: 0.001810, 0.997343, -0.072821
+[debug] Graph: 2d node created, normal: 0.012460, 0.999871, 0.010180
+[debug] Graph: 2d node created, normal: -0.003877, 0.999986, -0.003663
+[debug] Graph: 2d node created, normal: -0.006039, 0.999909, -0.012084
+[debug] Graph: 2d node created, normal: -0.004199, 0.999863, -0.016034
+[debug] Graph: 2d node created, normal: -0.002148, 0.999461, -0.032748
+[debug] Graph: 2d node created, normal: 0.014359, 0.999407, -0.031304
+[debug] Graph: 2d node created, normal: 0.032925, 0.998930, -0.032494
+[debug] Graph: 2d node created, normal: 0.024161, 0.999393, -0.025084
+[debug] Graph: 2d node created, normal: 0.026468, 0.998891, -0.038944
+[debug] Graph: 2d node created, normal: 0.026176, 0.998920, -0.038379
+[debug] Graph: 2d node created, normal: 0.021303, 0.999016, -0.038897
+[debug] Graph: 2d node created, normal: 0.026107, 0.998923, -0.038364
+[debug] Graph: 2d node created, normal: -0.064892, 0.997356, -0.032696
+[debug] Graph: 2d node created, normal: -0.058987, 0.997412, -0.041106
+[debug] Graph: 2d node created, normal: -0.062840, 0.997175, -0.041146
+[debug] Graph: 3d node created, normal: -0.057575, 0.825054, -0.562113
+[debug] Graph: 2d node created, normal: -0.073415, 0.892037, -0.445959
+[debug] Graph: 2d node created, normal: -0.100806, 0.994906, 0.000055
+[debug] Graph: 2d node created, normal: -0.122915, 0.992417, 0.000020
+[debug] Graph: 2d node created, normal: -0.098073, 0.992041, -0.078966
+[debug] Graph: 2d node created, normal: -0.087810, 0.996137, 0.000118
+[debug] Graph: 2d node created, normal: -0.103608, 0.994618, 0.000067
+[debug] Graph: 2d node created, normal: -0.121320, 0.992613, -0.000087
+[debug] Graph: 2d node created, normal: -0.142088, 0.989841, -0.005057
+[debug] Graph: 2d node created, normal: -0.169082, 0.985556, -0.009550
+[debug] Graph: 2d node created, normal: -0.201840, 0.979414, -0.003119
+[debug] Graph: 2d node created, normal: -0.235764, 0.971647, 0.017801
+[debug] Graph: 2d node created, normal: -0.265804, 0.962562, 0.053125
+[debug] Graph: 2d node created, normal: -0.286923, 0.952585, 0.101274
+[debug] Graph: 2d node created, normal: -0.295364, 0.942107, 0.158730
+[debug] Graph: 2d node created, normal: -0.289554, 0.931269, 0.221123
+[debug] Graph: 2d node created, normal: -0.268603, 0.920185, 0.284801
+[debug] Graph: 2d node created, normal: -0.232424, 0.908887, 0.346270
+[debug] Graph: 2d node created, normal: -0.180002, 0.897615, 0.402350
+[debug] Graph: 2d node created, normal: -0.111857, 0.886272, 0.449454
+[debug] Graph: 3d node created, normal: -0.027755, 0.875069, 0.483201
+[debug] Graph: 3d node created, normal: 0.070936, 0.864139, 0.498229
+[debug] Graph: 3d node created, normal: 0.180457, 0.853517, 0.488819
+[debug] Graph: 3d node created, normal: 0.293976, 0.843161, 0.450176
+[debug] Graph: 3d node created, normal: 0.401518, 0.832794, 0.381101
+[debug] Graph: 3d node created, normal: 0.492484, 0.822073, 0.285752
+[debug] Graph: 3d node created, normal: 0.558950, 0.810768, 0.173870
+[debug] Graph: 3d node created, normal: 0.598580, 0.799023, 0.057135
+[debug] Graph: 3d node created, normal: 0.615950, 0.787137, -0.031948
+[debug] Graph: 3d node created, normal: 0.621916, 0.776015, -0.104984
+[debug] Graph: 3d node created, normal: 0.615190, 0.765767, -0.187462
+[debug] Graph: 3d node created, normal: 0.593565, 0.756472, -0.274647
+[debug] Graph: 3d node created, normal: 0.556445, 0.748181, -0.361380
+[debug] Graph: 3d node created, normal: 0.506509, 0.740831, -0.441156
+[debug] Graph: 3d node created, normal: 0.447945, 0.734406, -0.509895
+[debug] Graph: 3d node created, normal: 0.386314, 0.728911, -0.565200
+[debug] Graph: 3d node created, normal: 0.325758, 0.724207, -0.607788
+[debug] Graph: 3d node created, normal: 0.269648, 0.720146, -0.639281
+[debug] Graph: 3d node created, normal: 0.218953, 0.716801, -0.662009
+[debug] Graph: 3d node created, normal: 0.174902, 0.714097, -0.677846
+[debug] Graph: 3d node created, normal: 0.136771, 0.711910, -0.688824
+[debug] Graph: 3d node created, normal: 0.104425, 0.710250, -0.696161
+[debug] Graph: 3d node created, normal: 0.077383, 0.709017, -0.700933
+[debug] Graph: 3d node created, normal: 0.054910, 0.708155, -0.703919
+[debug] Graph: 3d node created, normal: 0.036710, 0.707632, -0.705627
+[debug] Graph: 3d node created, normal: 0.022143, 0.707340, -0.706527
+[debug] Graph: 3d node created, normal: 0.011258, 0.707180, -0.706944
+[debug] Graph: 3d node created, normal: -0.054108, 0.705894, -0.706248
+[debug] Graph: 3d node created, normal: 0.400847, 0.743781, -0.534895
+[debug] Graph: 3d node created, normal: 0.888693, 0.335522, -0.312490
+[debug] Graph: 2d node created, normal: 0.052863, 0.997337, -0.050242
+[debug] Graph: 2d node created, normal: 0.117436, 0.990854, -0.066456
+[debug] Graph: 2d node created, normal: 0.097324, 0.993008, -0.066812
+[debug] Graph: 2d node created, normal: 0.194996, 0.976245, -0.094459
+[debug] Graph: 2d node created, normal: 0.169574, 0.982957, -0.070992
+[debug] Graph: 2d node created, normal: 0.157894, 0.986643, -0.040057
+[debug] Graph: 2d node created, normal: 0.097170, 0.995248, -0.006196
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_books_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_generic_asianRoof_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_generic_brownRock_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_generic_dirtRoad_b.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_generic_greyWall_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_generic_ironA.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_generic_oldbricks_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_generic_paper_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_generic_plaster_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_generic_wallRock_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stk_wallpaperOld_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stkt_rustedMetal_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodD.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodG.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_concreteA.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_tilesA.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_waterConcreteA.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stkflag_blueCheckBorard_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_concreteA.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_concreteA.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_cattail_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/gfx_fireflies_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/gfx_fireworkExplosion_a/scripting.as
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/gfx_lightning_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/gfx_volumetricNebula_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_airConditioner_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_armchair_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_bugLamp_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_candle_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_chimney_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_chimney_b/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_cypress_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_deadTree_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_entranceGuardianMale_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_gramophone_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_industrialLamp_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_jackOLantern_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_jungleTree_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_logBarrier_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_lowPineTree_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_metalPostLamp_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_mudpot_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_mushroom_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_mushroom_b/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_oldLantern_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_oldLibraryLamp_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_pinetree_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_pumpkin_a/scripting.as
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_roots_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_skyBeam_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_waterLily_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_weatherCock_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_woodLittleBridge_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_woodPostLamp_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[info   ] Track: Overall scene complexity estimated at 757, Auto-LoD multiplier is 1.298867
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stkflag_blueCheckBorard_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_concreteA.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/library/stklib_pumpkin_a/stklib_pumpkin_diff_a.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] Scripting: Scripting function was not found : void stklib_cattail_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_cattail_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void gfx_fireflies_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void gfx_fireflies_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void gfx_fireworkExplosion_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void gfx_fireworkExplosion_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void gfx_lightning_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void gfx_lightning_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void gfx_volumetricNebula_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void gfx_volumetricNebula_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_airConditioner_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_airConditioner_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_armchair_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_armchair_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_bugLamp_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_bugLamp_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_candle_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_candle_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_chimney_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_chimney_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_chimney_b::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_chimney_b::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_cypress_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_cypress_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_deadTree_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_deadTree_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_entranceGuardianMale_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_entranceGuardianMale_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_gramophone_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_gramophone_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_industrialLamp_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_industrialLamp_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_jackOLantern_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_jackOLantern_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_jungleTree_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_jungleTree_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_logBarrier_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_logBarrier_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_lowPineTree_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_lowPineTree_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_metalPostLamp_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_metalPostLamp_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_mudpot_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_mudpot_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_mushroom_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_mushroom_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_mushroom_b::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_mushroom_b::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_oldLantern_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_oldLantern_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_oldLibraryLamp_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_oldLibraryLamp_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_pinetree_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_pinetree_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_pumpkin_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_pumpkin_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_roots_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_roots_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_skyBeam_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_skyBeam_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_waterLily_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_waterLily_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_weatherCock_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_weatherCock_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_woodLittleBridge_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_woodLittleBridge_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_woodPostLamp_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_woodPostLamp_a::onReset(const string)
+[verbose  ] profile: Number of frames: 12129 time 0.959000, Average FPS: 12647.548828
+[verbose  ] profile: name start_position end_position time average_speed top_speed skid_time rescue_time rescue_count brake_count explosion_time explosion_count bonus_count banana_count small_nitro_count large_nitro_count bubblegum_count
+[verbose  ] profile: gavroche Skidding 1 2 88.3549 16.8351 41.2732 0 0 0 42 0 0 2 1 0 0 0 262 
+[verbose  ] profile: adiumy Skidding 2 1 86.1728 17.2614 40.8381 0 0 0 0 0 0 1 0 0 0 0 615 
+[verbose  ] profile: tux Skidding 3 3 96.031 15.4894 41.2653 0 0 0 50 0 0 1 0 0 0 0 266 
+[verbose  ] profile: min 86.172791  max 96.031021  av 90.186241
+
+[verbose  ] profile: 
+[verbose  ] profile: name     Strt End  Time    AvSp  Top   Skid  Resc Rsc Brake Expl Exp Itm Ban SNitLNit Bub Off Energy
+[verbose  ] profile: Skidding    1   2  88.35 16.84 41.27   0.00 0.00   0    42 0.00   0   2   1   0   0   0   262 0.00
+[verbose  ] profile: Skidding    2   1  86.17 17.26 40.84   0.00 0.00   0     0 0.00   0   1   0   0   0   0   615 0.00
+[verbose  ] profile: Skidding    3   3  96.03 15.49 41.27   0.00 0.00   0    50 0.00   0   1   0   0   0   0   266 0.00
+[verbose  ] profile: ---------------------------------------------------------------------------------------------------
+[verbose  ] profile: Skidding   +0      90.1862             0.00 0.00   0    92 0.00   0   4   1   0   0   0  1143 0.00
+[verbose  ] profile: 
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+        1.91 real         1.38 user         0.43 sys
+           162971648  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+               10987  page reclaims
+                  28  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                  75  voluntary context switches
+                 685  involuntary context switches
+         14156306443  instructions retired
+          3520305389  cycles elapsed
+            97011904  peak memory footprint

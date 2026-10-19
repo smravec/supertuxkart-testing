@@ -1,0 +1,419 @@
+/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/MacOS/supertuxkart --no-graphics --no-sound --log=0 --track=minigolf --numkarts=3 --profile-laps=1 --seed=1
+
+[debug] [FileManager]: Checking whether we are using an app bundle... 
+[debug] [FileManager]: yes
+[info   ] [FileManager]: Creating directory(ies) '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-lvy_60ax/config-0.10/'
+[info   ] FileManager: Creating directory '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-lvy_60ax/config-0.10/'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Addons/'.
+[error  ] FileManager: Can not create add-ons dir '/Users/simon/Library/Application Support/SuperTuxKart/Addons/', falling back to '.'.
+[info   ] FileManager: Creating directory './icons/'.
+[info   ] FileManager: Creating directory './tmp/'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/'.
+[error  ] FileManager: Can not create screenshot directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/', falling back to '.'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/'.
+[error  ] FileManager: Can not create replay directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/', falling back to '.'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/CachedTextures/'.
+[error  ] FileManager: Can not create cached textures directory '/Users/simon/Library/Application Support/SuperTuxKart/CachedTextures/', falling back to '.'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/grandprix/'.
+[error  ] FileManager: Can not create user-defined grand prix directory '/Users/simon/Library/Application Support/SuperTuxKart/grandprix/', falling back to '.'.
+[verbose  ] main: Error messages and other text output will be logged to /var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-lvy_60ax/config-0.10/stdout.log.
+[info   ] UserConfig: Could not read user config file '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-lvy_60ax/config-0.10/config.xml'.  A new file will be created.
+[info   ] [FileManager]: Data files will be fetched from: '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/'
+[info   ] [FileManager]: Data files will be fetched from: '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/'
+[info   ] [FileManager]: User directory is '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-lvy_60ax/config-0.10/'.
+[info   ] [FileManager]: Addons files will be stored in './'.
+[info   ] [FileManager]: Screenshots will be stored in '.'.
+[info   ] [FileManager]: User-defined grand prix will be stored in '.'.
+[info   ] [FileManager]: Asset 0 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/challenges/'.
+[info   ] [FileManager]: Asset 1 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gfx/'.
+[info   ] [FileManager]: Asset 2 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/'.
+[info   ] [FileManager]: Asset 3 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gui/icons/'.
+[info   ] [FileManager]: Asset 4 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gui/screens/'.
+[info   ] [FileManager]: Asset 5 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gui/dialogs/'.
+[info   ] [FileManager]: Asset 6 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/replay/'.
+[info   ] [FileManager]: Asset 7 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/shaders/'.
+[info   ] [FileManager]: Asset 8 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/skins/'.
+[info   ] [FileManager]: Asset 9 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/ttf/'.
+[info   ] [FileManager]: Asset 10 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/po/'.
+[info   ] [FileManager]: Asset 11 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/'.
+[info   ] [FileManager]: Asset 12 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/models/'.
+[info   ] [FileManager]: Asset 13 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/music/'.
+[info   ] [FileManager]: Asset 14 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/sfx/'.
+[info   ] [FileManager]: Asset 15 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/textures/'.
+[info   ] [FileManager]: Asset 16 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/tracks/'.
+[verbose  ] translation: Env var LANGUAGE = 'en_US.UTF-8'.
+[verbose  ] translation: Language 'English (United States)'.
+[info   ] main: STK using random seed (1)
+[info   ] ServerConfig: Could not read server config file '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-lvy_60ax/config-0.10/server_config.xml'. A new file will be created.
+..:: Antarctica Rendering Engine 2.0 ::..
+[warn   ] irr_driver: Using the fixed pipeline (old GPU, or shaders disabled in options)
+[debug] InputManager: Initialising InputManager!
+[info   ] GUI: Loading skin data from file: /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/skins/classic/stkskin.xml
+[info   ] player_manager: A new players.xml file will be created.
+[info   ] Highscore Manager: New highscore file '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-lvy_60ax/config-0.10/highscore.xml' created.
+
+[info   ] GrandPrixManager: Loading Grand Prix files from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/
+[debug] GrandPrixManager: Grand Prix '1_penguinplayground' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/1_penguinplayground.grandprix
+[debug] GrandPrixManager: Grand Prix '2_offthebeatentrack' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/2_offthebeatentrack.grandprix
+[debug] GrandPrixManager: Grand Prix '3_tothemoonandback' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/3_tothemoonandback.grandprix
+[debug] GrandPrixManager: Grand Prix '4_atworldsend' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/4_atworldsend.grandprix
+[debug] MaterialManager: Couldn't find cached SP material! Opening default adiumyshadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default amanda_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default godette-shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default emule_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default gavroche_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default gnushadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default hexley_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default kiki_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default konqi_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default nolokshadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default pidginshadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default puffy-shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default Pepper_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default sara-shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default tux_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default wilber_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default shadow.png!
+[verbose  ] main: You chose to start in track 'minigolf'.
+[verbose  ] main: 3 karts will be used.
+[verbose  ] main: Profiling 1 laps.
+[info   ] PlayerManager: Enforcing current player 'simon'.
+[verbose  ] RaceManager: Nb of karts=3, ghost karts:0 ai:2 players:1
+
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/tracks/minigolf//scripting.as
+[debug] Graph: 2d node created, normal: 0.031856, 0.999491, 0.001461
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: 0.083403, 0.996109, 0.028467
+[debug] Graph: 2d node created, normal: 0.177937, 0.983719, 0.025226
+[debug] Graph: 2d node created, normal: 0.170021, 0.985289, -0.017269
+[debug] Graph: 2d node created, normal: 0.168075, 0.985382, -0.027817
+[debug] Graph: 2d node created, normal: 0.186008, 0.982548, -0.000788
+[debug] Graph: 2d node created, normal: -0.118706, 0.992928, -0.001932
+[debug] Graph: 2d node created, normal: -0.081355, 0.996511, 0.018655
+[debug] Graph: 2d node created, normal: -0.140573, 0.989939, 0.016122
+[debug] Graph: 2d node created, normal: -0.160156, 0.987063, 0.007575
+[debug] Graph: 2d node created, normal: -0.086636, 0.996040, 0.019948
+[debug] Graph: 2d node created, normal: -0.069283, 0.997269, 0.025577
+[debug] Graph: 2d node created, normal: 0.010526, 0.999722, 0.021101
+[debug] Graph: 2d node created, normal: -0.083719, 0.996317, 0.018557
+[debug] Graph: 2d node created, normal: 0.003951, 0.999871, -0.015540
+[debug] Graph: 2d node created, normal: -0.093610, 0.995597, -0.004893
+[debug] Graph: 2d node created, normal: -0.100419, 0.993355, 0.056235
+[debug] Graph: 2d node created, normal: -0.113916, 0.988280, 0.101617
+[debug] Graph: 2d node created, normal: -0.106815, 0.990240, 0.089526
+[debug] Graph: 2d node created, normal: -0.053663, 0.994987, 0.084384
+[debug] Graph: 2d node created, normal: -0.009713, 0.996706, 0.080522
+[debug] Graph: 2d node created, normal: 0.031932, 0.987312, 0.155547
+[debug] Graph: 2d node created, normal: 0.063038, 0.991625, 0.112725
+[debug] Graph: 2d node created, normal: 0.084741, 0.991653, 0.097174
+[debug] Graph: 2d node created, normal: 0.098445, 0.992304, 0.075113
+[debug] Graph: 2d node created, normal: -0.020027, 0.999756, -0.009331
+[debug] Graph: 2d node created, normal: -0.017176, 0.999844, -0.004180
+[debug] Graph: 3d node created, normal: 0.650598, 0.755469, 0.077394
+[debug] Graph: 2d node created, normal: -0.108194, 0.994074, 0.010507
+[debug] Graph: 2d node created, normal: -0.116558, 0.993183, -0.001192
+[debug] Graph: 2d node created, normal: 0.140826, 0.990031, 0.002617
+[debug] Graph: 2d node created, normal: 0.140849, 0.990008, 0.006715
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.038386, 0.998322, -0.043351
+[debug] Graph: 2d node created, normal: 0.004863, 0.993576, -0.113059
+[debug] Graph: 2d node created, normal: 0.081174, 0.994882, -0.060169
+[debug] Graph: 2d node created, normal: 0.010239, 0.999481, 0.030537
+[debug] Graph: 2d node created, normal: -0.046691, 0.997901, 0.044875
+[debug] Graph: 2d node created, normal: -0.033934, 0.998909, 0.032076
+[debug] Graph: 2d node created, normal: 0.001640, 0.997425, -0.071705
+[debug] Graph: 2d node created, normal: 0.032306, 0.998235, -0.049835
+[debug] Graph: 2d node created, normal: 0.034226, 0.996751, -0.072906
+[debug] Graph: 2d node created, normal: 0.061917, 0.985346, -0.158931
+[debug] Graph: 2d node created, normal: 0.086116, 0.977225, -0.193947
+[debug] Graph: 2d node created, normal: 0.130434, 0.950342, -0.282555
+[debug] Graph: 2d node created, normal: 0.144852, 0.902765, -0.405010
+[debug] Graph: 2d node created, normal: 0.179892, 0.911796, -0.369142
+[debug] Graph: 2d node created, normal: 0.283952, 0.920149, -0.269626
+[debug] Graph: 2d node created, normal: 0.271714, 0.895934, -0.351389
+[debug] Graph: 2d node created, normal: 0.234726, 0.881586, -0.409524
+[debug] Graph: 2d node created, normal: 0.252438, 0.896488, -0.364121
+[debug] Graph: 2d node created, normal: 0.121834, 0.909762, -0.396850
+[debug] Graph: 2d node created, normal: 0.256930, 0.881778, -0.395543
+[debug] Graph: 3d node created, normal: 0.279586, 0.858430, -0.430034
+[debug] Graph: 2d node created, normal: 0.162961, 0.906915, -0.388521
+[debug] Graph: 2d node created, normal: 0.170542, 0.930764, -0.323409
+[debug] Graph: 3d node created, normal: 0.316380, 0.874965, -0.366525
+[debug] Graph: 2d node created, normal: 0.222358, 0.943448, -0.245890
+[debug] Graph: 2d node created, normal: 0.202058, 0.957295, -0.206783
+[debug] Graph: 2d node created, normal: 0.145968, 0.980076, -0.134704
+[debug] Graph: 2d node created, normal: 0.123309, 0.986108, -0.111291
+[debug] Graph: 2d node created, normal: 0.090171, 0.994686, -0.049680
+[debug] Graph: 2d node created, normal: 0.026267, 0.999490, -0.018171
+[debug] Graph: 2d node created, normal: -0.000018, 0.999782, 0.020873
+[debug] Graph: 2d node created, normal: 0.007688, 0.999930, 0.008979
+[debug] Graph: 2d node created, normal: -0.057931, 0.998308, 0.004949
+[debug] Graph: 2d node created, normal: -0.164391, 0.978870, 0.121608
+[debug] Graph: 2d node created, normal: -0.094192, 0.994713, 0.040902
+[debug] Graph: 2d node created, normal: -0.106922, 0.993654, 0.034917
+[debug] Graph: 2d node created, normal: -0.025483, 0.999675, 0.000141
+[debug] Graph: 2d node created, normal: -0.070636, 0.997127, -0.027346
+[debug] Graph: 2d node created, normal: 0.154432, 0.983629, -0.092871
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: 0.080237, 0.996505, 0.023242
+[debug] Graph: 2d node created, normal: 0.143861, 0.986873, 0.073390
+[debug] Graph: 2d node created, normal: 0.200128, 0.974869, 0.097876
+[debug] Graph: 2d node created, normal: 0.127599, 0.986641, 0.101283
+[debug] Graph: 2d node created, normal: 0.085143, 0.992016, 0.093037
+[debug] Graph: 2d node created, normal: -0.017607, 0.997221, 0.072396
+[debug] Graph: 2d node created, normal: 0.190640, 0.975854, 0.106607
+[debug] Graph: 2d node created, normal: 0.079217, 0.996303, 0.033230
+[debug] Graph: 2d node created, normal: 0.068422, 0.997086, 0.033728
+[debug] Graph: 2d node created, normal: 0.043050, 0.998771, 0.024542
+[debug] Graph: 2d node created, normal: 0.005266, 0.999979, 0.003654
+[debug] Graph: 2d node created, normal: 0.040777, 0.998747, 0.029011
+[debug] Graph: 2d node created, normal: -0.034473, 0.999151, -0.022549
+[debug] Graph: 2d node created, normal: 0.014983, 0.999835, 0.010282
+[debug] Graph: 2d node created, normal: -0.053181, 0.997953, -0.035510
+[debug] Graph: 2d node created, normal: 0.004746, 0.999970, 0.006155
+[debug] Graph: 2d node created, normal: -0.113816, 0.990299, -0.079716
+[debug] Graph: 2d node created, normal: -0.094235, 0.993661, -0.061292
+[debug] Graph: 2d node created, normal: -0.140097, 0.989536, -0.034529
+[debug] Graph: 2d node created, normal: -0.142211, 0.989717, -0.015403
+[debug] Graph: 2d node created, normal: -0.119746, 0.992802, -0.002280
+[debug] Graph: 2d node created, normal: -0.143880, 0.989594, -0.001434
+[debug] Graph: 2d node created, normal: -0.082388, 0.996599, 0.001841
+[debug] Graph: 2d node created, normal: -0.195573, 0.980533, 0.017497
+[debug] Graph: 2d node created, normal: -0.073236, 0.997257, 0.010745
+[debug] Graph: 2d node created, normal: -0.121573, 0.992245, 0.025870
+[debug] Graph: 2d node created, normal: -0.033625, 0.999383, 0.010107
+[debug] Graph: 2d node created, normal: -0.027640, 0.999558, -0.010910
+[debug] Graph: 2d node created, normal: -0.078347, 0.996759, 0.018229
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.006165, 0.999974, 0.003816
+[debug] Graph: 2d node created, normal: -0.006570, 0.999959, 0.006267
+[debug] Graph: 2d node created, normal: -0.004843, 0.999957, 0.007938
+[debug] Graph: 2d node created, normal: 0.046098, 0.998734, 0.020151
+[debug] Graph: 2d node created, normal: 0.080937, 0.996669, 0.010003
+[debug] Graph: 2d node created, normal: -0.012307, 0.999740, -0.019203
+[debug] Graph: 2d node created, normal: -0.156048, 0.982662, -0.100118
+[debug] Graph: 2d node created, normal: -0.017225, 0.999848, -0.002557
+[debug] Graph: 2d node created, normal: -0.216437, 0.968723, -0.121368
+[debug] Graph: 2d node created, normal: -0.167419, 0.981130, -0.096724
+[debug] Graph: 2d node created, normal: 0.245119, 0.964598, 0.097297
+[debug] Graph: 2d node created, normal: -0.029802, 0.999539, -0.005782
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.006144, 0.999898, -0.012903
+[debug] Graph: 2d node created, normal: -0.029577, 0.997375, -0.066095
+[debug] Graph: 2d node created, normal: -0.048869, 0.993751, -0.100350
+[debug] Graph: 2d node created, normal: -0.048143, 0.990353, -0.129936
+[debug] Graph: 2d node created, normal: -0.042246, 0.990501, -0.130854
+[debug] Graph: 2d node created, normal: -0.030223, 0.991850, -0.123775
+[debug] Graph: 2d node created, normal: -0.010772, 0.993795, -0.110702
+[debug] Graph: 2d node created, normal: 0.014673, 0.995138, -0.097394
+[debug] Graph: 2d node created, normal: 0.025374, 0.998244, -0.053521
+[debug] Graph: 2d node created, normal: 0.075121, 0.992299, -0.098484
+[debug] Graph: 2d node created, normal: 0.095597, 0.992094, -0.081303
+[debug] Graph: 2d node created, normal: 0.093412, 0.994134, -0.054513
+[debug] Graph: 2d node created, normal: 0.112776, 0.992687, -0.043065
+[debug] Graph: 2d node created, normal: 0.063866, 0.997932, -0.007327
+[debug] Graph: 2d node created, normal: 0.026621, 0.999623, 0.006729
+[debug] Graph: 2d node created, normal: 0.035715, 0.999111, 0.022406
+[debug] Graph: 2d node created, normal: 0.025645, 0.999265, 0.028506
+[debug] Graph: 2d node created, normal: 0.043434, 0.995326, 0.086255
+[debug] Graph: 2d node created, normal: 0.011582, 0.998206, 0.058749
+[debug] Graph: 2d node created, normal: -0.002759, 0.999225, 0.039258
+[debug] Graph: 2d node created, normal: -0.012316, 0.999344, 0.034053
+[debug] Graph: 2d node created, normal: -0.017177, 0.999309, 0.032959
+[debug] Graph: 2d node created, normal: -0.017175, 0.999309, 0.032952
+[debug] Graph: 2d node created, normal: -0.000597, 0.999999, 0.001144
+[debug] Graph: 2d node created, normal: -0.000497, 0.999999, 0.000954
+[debug] Graph: 2d node created, normal: 0.003577, 0.999970, -0.006863
+[debug] Graph: 2d node created, normal: -0.015702, 0.999423, 0.030123
+[debug] Graph: 2d node created, normal: -0.008622, 0.999826, 0.016540
+[debug] Graph: 2d node created, normal: -0.014335, 0.998026, 0.061147
+[debug] Graph: 2d node created, normal: 0.015957, 0.998032, -0.060642
+[debug] Graph: 2d node created, normal: -0.020325, 0.999753, 0.008987
+[debug] Graph: 2d node created, normal: -0.001917, 0.997030, 0.076989
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.118900, 0.992906, 0.000151
+[debug] Graph: 2d node created, normal: -0.146570, 0.980832, -0.128395
+[debug] Graph: 2d node created, normal: -0.076846, 0.996960, -0.012845
+[debug] Graph: 2d node created, normal: -0.077185, 0.996336, 0.036835
+[debug] Graph: 2d node created, normal: 0.060650, 0.996554, -0.056589
+[debug] Graph: 2d node created, normal: 0.077129, 0.996176, -0.041042
+[debug] Graph: 2d node created, normal: 0.061506, 0.998069, -0.008663
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.015647, 0.999877, 0.001432
+[debug] Graph: 2d node created, normal: -0.018543, 0.999710, 0.015336
+[debug] Graph: 2d node created, normal: -0.112679, 0.993468, 0.018033
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/Woodpile.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/golfbal_face.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/ribbed_steel.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/rock_grey.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/stone.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/tree_zen.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/windmill_wall.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/trunk_bark.jpg!
+[info   ] Track: Overall scene complexity estimated at 58, Auto-LoD multiplier is 3.286335
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/flag.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/flag.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/minigolf/flag.jpg!
+[debug] Scripting: Scripting function was not found : void onStart()
+[debug] Scripting: Scripting function was not found : void onKartKartCollision(int, int)
+[verbose  ] profile: Number of frames: 6671 time 0.368000, Average FPS: 18127.716797
+[verbose  ] profile: name start_position end_position time average_speed top_speed skid_time rescue_time rescue_count brake_count explosion_time explosion_count bonus_count banana_count small_nitro_count large_nitro_count bubblegum_count
+[verbose  ] profile: gavroche Skidding 1 1 48.8888 15.3595 19.3213 0 0 0 72 0 0 3 1 1 0 0 269 
+[verbose  ] profile: adiumy Skidding 2 2 50.4533 14.8833 23.3039 0 0 0 97 0 0 1 0 0 0 0 253 
+[verbose  ] profile: tux Skidding 3 3 50.55 14.8548 17.879 0 0 0 74 0 0 0 0 1 0 0 238 
+[verbose  ] profile: min 48.888817  max 50.549999  av 49.964024
+
+[verbose  ] profile: 
+[verbose  ] profile: name     Strt End  Time    AvSp  Top   Skid  Resc Rsc Brake Expl Exp Itm Ban SNitLNit Bub Off Energy
+[verbose  ] profile: Skidding    1   1  48.89 15.36 19.32   0.00 0.00   0    72 0.00   0   3   1   1   0   0   269 0.00
+[verbose  ] profile: Skidding    2   2  50.45 14.88 23.30   0.00 0.00   0    97 0.00   0   1   0   0   0   0   253 0.00
+[verbose  ] profile: Skidding    3   3  50.55 14.85 17.88   0.00 0.00   0    74 0.00   0   0   0   1   0   0   238 1.00
+[verbose  ] profile: ---------------------------------------------------------------------------------------------------
+[verbose  ] profile: Skidding   +0       49.964             0.00 0.00   0   243 0.00   0   4   1   2   0   0   760 1.00
+[verbose  ] profile: 
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+        1.39 real         0.89 user         0.38 sys
+           128401408  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                8879  page reclaims
+                  27  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                  29  voluntary context switches
+                 692  involuntary context switches
+          9566585282  instructions retired
+          2364252007  cycles elapsed
+            62965952  peak memory footprint

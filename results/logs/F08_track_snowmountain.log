@@ -1,0 +1,454 @@
+/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/MacOS/supertuxkart --no-graphics --no-sound --log=0 --track=snowmountain --numkarts=3 --profile-laps=1 --seed=1
+
+[debug] [FileManager]: Checking whether we are using an app bundle... 
+[debug] [FileManager]: yes
+[info   ] [FileManager]: Creating directory(ies) '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-pd3_eh4p/config-0.10/'
+[info   ] FileManager: Creating directory '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-pd3_eh4p/config-0.10/'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Addons/'.
+[error  ] FileManager: Can not create add-ons dir '/Users/simon/Library/Application Support/SuperTuxKart/Addons/', falling back to '.'.
+[info   ] FileManager: Creating directory './icons/'.
+[info   ] FileManager: Creating directory './tmp/'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/'.
+[error  ] FileManager: Can not create screenshot directory '/Users/simon/Library/Application Support/SuperTuxKart/Screenshots/', falling back to '.'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/'.
+[error  ] FileManager: Can not create replay directory '/Users/simon/Library/Application Support/SuperTuxKart/replay/', falling back to '.'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/CachedTextures/'.
+[error  ] FileManager: Can not create cached textures directory '/Users/simon/Library/Application Support/SuperTuxKart/CachedTextures/', falling back to '.'.
+[info   ] FileManager: Creating directory '/Users/simon/Library/Application Support/SuperTuxKart/grandprix/'.
+[error  ] FileManager: Can not create user-defined grand prix directory '/Users/simon/Library/Application Support/SuperTuxKart/grandprix/', falling back to '.'.
+[verbose  ] main: Error messages and other text output will be logged to /var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-pd3_eh4p/config-0.10/stdout.log.
+[info   ] UserConfig: Could not read user config file '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-pd3_eh4p/config-0.10/config.xml'.  A new file will be created.
+[info   ] [FileManager]: Data files will be fetched from: '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/'
+[info   ] [FileManager]: Data files will be fetched from: '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/'
+[info   ] [FileManager]: User directory is '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-pd3_eh4p/config-0.10/'.
+[info   ] [FileManager]: Addons files will be stored in './'.
+[info   ] [FileManager]: Screenshots will be stored in '.'.
+[info   ] [FileManager]: User-defined grand prix will be stored in '.'.
+[info   ] [FileManager]: Asset 0 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/challenges/'.
+[info   ] [FileManager]: Asset 1 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gfx/'.
+[info   ] [FileManager]: Asset 2 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/'.
+[info   ] [FileManager]: Asset 3 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gui/icons/'.
+[info   ] [FileManager]: Asset 4 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gui/screens/'.
+[info   ] [FileManager]: Asset 5 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/gui/dialogs/'.
+[info   ] [FileManager]: Asset 6 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/replay/'.
+[info   ] [FileManager]: Asset 7 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/shaders/'.
+[info   ] [FileManager]: Asset 8 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/skins/'.
+[info   ] [FileManager]: Asset 9 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/ttf/'.
+[info   ] [FileManager]: Asset 10 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/po/'.
+[info   ] [FileManager]: Asset 11 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/'.
+[info   ] [FileManager]: Asset 12 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/models/'.
+[info   ] [FileManager]: Asset 13 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/music/'.
+[info   ] [FileManager]: Asset 14 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/sfx/'.
+[info   ] [FileManager]: Asset 15 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/textures/'.
+[info   ] [FileManager]: Asset 16 will be loaded from '/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/tracks/'.
+[verbose  ] translation: Env var LANGUAGE = 'en_US.UTF-8'.
+[verbose  ] translation: Language 'English (United States)'.
+[info   ] main: STK using random seed (1)
+[info   ] ServerConfig: Could not read server config file '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-pd3_eh4p/config-0.10/server_config.xml'. A new file will be created.
+..:: Antarctica Rendering Engine 2.0 ::..
+[warn   ] irr_driver: Using the fixed pipeline (old GPU, or shaders disabled in options)
+[debug] InputManager: Initialising InputManager!
+[info   ] GUI: Loading skin data from file: /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/skins/classic/stkskin.xml
+[info   ] player_manager: A new players.xml file will be created.
+[info   ] Highscore Manager: New highscore file '/var/folders/t1/v9ml59tj7r193mbh2nwmq57w0000gn/T/stk-pd3_eh4p/config-0.10/highscore.xml' created.
+
+[info   ] GrandPrixManager: Loading Grand Prix files from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/
+[debug] GrandPrixManager: Grand Prix '1_penguinplayground' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/1_penguinplayground.grandprix
+[debug] GrandPrixManager: Grand Prix '2_offthebeatentrack' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/2_offthebeatentrack.grandprix
+[debug] GrandPrixManager: Grand Prix '3_tothemoonandback' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/3_tothemoonandback.grandprix
+[debug] GrandPrixManager: Grand Prix '4_atworldsend' loaded from /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/grandprix/4_atworldsend.grandprix
+[debug] MaterialManager: Couldn't find cached SP material! Opening default adiumyshadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default amanda_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default godette-shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default emule_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default gavroche_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default gnushadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default hexley_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default kiki_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default konqi_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default nolokshadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default pidginshadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default puffy-shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default Pepper_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default sara-shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default tux_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default wilber_shadow.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default shadow.png!
+[verbose  ] main: You chose to start in track 'snowmountain'.
+[verbose  ] main: 3 karts will be used.
+[verbose  ] main: Profiling 1 laps.
+[info   ] PlayerManager: Enforcing current player 'simon'.
+[verbose  ] RaceManager: Nb of karts=3, ghost karts:0 ai:2 players:1
+
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/tracks/snowmountain//scripting.as
+[debug] Graph: 2d node created, normal: -0.006901, 0.998261, -0.058547
+[debug] Graph: 2d node created, normal: -0.006869, 0.998253, -0.058689
+[debug] Graph: 2d node created, normal: -0.006913, 0.998252, -0.058702
+[debug] Graph: 2d node created, normal: -0.006862, 0.998234, -0.059001
+[debug] Graph: 2d node created, normal: 0.000855, 0.997729, -0.067344
+[debug] Graph: 2d node created, normal: 0.013209, 0.997717, -0.066227
+[debug] Graph: 2d node created, normal: 0.028079, 0.997421, -0.066056
+[debug] Graph: 2d node created, normal: 0.025852, 0.998657, -0.044906
+[debug] Graph: 2d node created, normal: -0.005958, 0.999875, -0.014652
+[debug] Graph: 2d node created, normal: 0.064259, 0.997626, -0.024742
+[debug] Graph: 2d node created, normal: 0.040872, 0.999016, -0.017195
+[debug] Graph: 2d node created, normal: 0.049966, 0.998597, -0.017541
+[debug] Graph: 2d node created, normal: -0.038112, 0.999151, -0.015634
+[debug] Graph: 2d node created, normal: 0.081433, 0.996635, 0.009371
+[debug] Graph: 2d node created, normal: 0.093901, 0.995493, 0.013271
+[debug] Graph: 2d node created, normal: 0.077777, 0.996777, 0.019628
+[debug] Graph: 2d node created, normal: -0.002265, 0.999839, 0.017801
+[debug] Graph: 2d node created, normal: -0.005325, 0.999839, 0.017136
+[debug] Graph: 2d node created, normal: -0.008215, 0.999839, 0.015954
+[debug] Graph: 2d node created, normal: -0.010864, 0.999839, 0.014282
+[debug] Graph: 2d node created, normal: -0.013178, 0.999839, 0.012180
+[debug] Graph: 2d node created, normal: -0.015092, 0.999839, 0.009708
+[debug] Graph: 2d node created, normal: -0.016550, 0.999839, 0.006937
+[debug] Graph: 2d node created, normal: -0.017502, 0.999839, 0.003960
+[debug] Graph: 2d node created, normal: -0.017924, 0.999839, 0.000857
+[debug] Graph: 2d node created, normal: -0.017781, 0.999840, -0.002174
+[debug] Graph: 2d node created, normal: -0.016576, 0.999348, 0.032063
+[debug] Graph: 2d node created, normal: -0.016282, 0.999302, 0.033616
+[debug] Graph: 2d node created, normal: -0.016299, 0.999305, 0.033521
+[debug] Graph: 2d node created, normal: -0.016294, 0.999312, 0.033325
+[debug] Graph: 2d node created, normal: -0.000493, 0.994988, 0.099992
+[debug] Graph: 2d node created, normal: -0.018058, 0.999836, 0.001219
+[debug] Graph: 2d node created, normal: -0.017851, 0.999836, -0.002979
+[debug] Graph: 2d node created, normal: -0.016686, 0.999836, -0.007012
+[debug] Graph: 2d node created, normal: -0.014617, 0.999836, -0.010674
+[debug] Graph: 2d node created, normal: -0.011764, 0.999836, -0.013755
+[debug] Graph: 2d node created, normal: -0.008270, 0.999836, -0.016099
+[debug] Graph: 2d node created, normal: -0.004336, 0.999836, -0.017572
+[debug] Graph: 2d node created, normal: -0.000169, 0.999836, -0.018099
+[debug] Graph: 2d node created, normal: 0.004011, 0.999836, -0.017649
+[debug] Graph: 2d node created, normal: 0.048893, 0.998793, 0.004695
+[debug] Graph: 2d node created, normal: 0.092640, 0.993790, 0.061643
+[debug] Graph: 2d node created, normal: 0.046254, 0.998290, 0.035748
+[debug] Graph: 2d node created, normal: 0.039720, 0.997752, 0.053976
+[debug] Graph: 2d node created, normal: 0.028657, 0.997870, 0.058597
+[debug] Graph: 2d node created, normal: 0.022250, 0.995333, 0.093897
+[debug] Graph: 2d node created, normal: 0.036726, 0.988958, 0.143574
+[debug] Graph: 2d node created, normal: 0.022389, 0.999315, 0.029462
+[debug] Graph: 2d node created, normal: 0.010075, 0.999949, 0.000129
+[debug] Graph: 2d node created, normal: 0.035843, 0.999169, 0.019423
+[debug] Graph: 2d node created, normal: 0.039658, 0.999136, 0.012419
+[debug] Graph: 2d node created, normal: 0.089640, 0.995822, 0.017392
+[debug] Graph: 2d node created, normal: 0.165917, 0.986140, -0.000219
+[debug] Graph: 2d node created, normal: 0.123274, 0.991584, -0.039562
+[debug] Graph: 2d node created, normal: 0.042866, 0.998402, -0.036823
+[debug] Graph: 2d node created, normal: 0.027107, 0.998630, -0.044754
+[debug] Graph: 2d node created, normal: 0.044610, 0.992638, -0.112607
+[debug] Graph: 2d node created, normal: 0.019691, 0.993039, -0.116133
+[debug] Graph: 2d node created, normal: -0.001574, 0.995744, -0.092147
+[debug] Graph: 2d node created, normal: -0.006221, 0.995858, -0.090713
+[debug] Graph: 2d node created, normal: -0.006451, 0.997077, -0.076126
+[debug] Graph: 2d node created, normal: -0.003753, 0.999958, -0.008349
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000525, 0.999556, 0.029782
+[debug] Graph: 2d node created, normal: -0.001488, 0.996431, 0.084398
+[debug] Graph: 2d node created, normal: 0.003554, 0.996105, 0.088097
+[debug] Graph: 2d node created, normal: 0.013615, 0.996093, 0.087258
+[debug] Graph: 2d node created, normal: 0.023628, 0.996087, 0.085164
+[debug] Graph: 2d node created, normal: 0.033951, 0.995992, 0.082750
+[debug] Graph: 2d node created, normal: 0.044018, 0.996014, 0.077583
+[debug] Graph: 2d node created, normal: 0.056069, 0.995787, 0.072551
+[debug] Graph: 2d node created, normal: 0.067437, 0.995738, 0.062911
+[debug] Graph: 2d node created, normal: 0.073458, 0.996060, 0.049675
+[debug] Graph: 2d node created, normal: 0.081871, 0.995785, 0.041339
+[debug] Graph: 2d node created, normal: 0.090237, 0.995282, 0.035665
+[debug] Graph: 2d node created, normal: 0.085064, 0.996071, 0.024617
+[debug] Graph: 2d node created, normal: 0.087449, 0.996060, 0.014764
+[debug] Graph: 2d node created, normal: 0.088630, 0.996054, 0.004560
+[debug] Graph: 2d node created, normal: 0.070852, 0.997476, -0.004571
+[debug] Graph: 2d node created, normal: 0.073424, 0.997207, -0.013696
+[debug] Graph: 2d node created, normal: 0.084484, 0.996058, -0.027055
+[debug] Graph: 2d node created, normal: 0.080366, 0.996054, -0.037656
+[debug] Graph: 2d node created, normal: 0.074854, 0.996045, -0.047866
+[debug] Graph: 2d node created, normal: 0.068130, 0.996027, -0.057350
+[debug] Graph: 2d node created, normal: 0.059437, 0.996048, -0.065991
+[debug] Graph: 2d node created, normal: 0.050706, 0.996001, -0.073556
+[debug] Graph: 2d node created, normal: 0.042022, 0.995992, -0.078957
+[debug] Graph: 2d node created, normal: 0.032643, 0.995986, -0.083352
+[debug] Graph: 2d node created, normal: 0.022849, 0.995963, -0.086803
+[debug] Graph: 2d node created, normal: 0.012301, 0.995960, -0.088957
+[debug] Graph: 2d node created, normal: 0.001068, 0.995966, -0.089731
+[debug] Graph: 2d node created, normal: -0.010397, 0.995984, -0.088928
+[debug] Graph: 2d node created, normal: -0.021924, 0.995975, -0.086908
+[debug] Graph: 2d node created, normal: -0.033052, 0.995979, -0.083270
+[debug] Graph: 2d node created, normal: -0.044142, 0.995986, -0.077873
+[debug] Graph: 2d node created, normal: -0.053943, 0.995969, -0.071665
+[debug] Graph: 2d node created, normal: -0.061858, 0.995958, -0.065124
+[debug] Graph: 2d node created, normal: -0.069016, 0.995953, -0.057576
+[debug] Graph: 2d node created, normal: -0.075438, 0.995928, -0.049361
+[debug] Graph: 2d node created, normal: -0.080818, 0.995927, -0.039981
+[debug] Graph: 2d node created, normal: -0.085138, 0.995931, -0.029536
+[debug] Graph: 2d node created, normal: -0.087996, 0.995952, -0.018357
+[debug] Graph: 2d node created, normal: -0.075354, 0.997141, -0.005654
+[debug] Graph: 2d node created, normal: -0.069073, 0.997610, 0.001931
+[debug] Graph: 2d node created, normal: -0.036267, 0.999340, 0.001993
+[debug] Graph: 2d node created, normal: -0.042519, 0.999094, 0.001851
+[debug] Graph: 2d node created, normal: -0.005063, 0.999987, 0.000220
+[debug] Graph: 2d node created, normal: -0.010675, 0.999943, 0.000465
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: -0.000000, 1.000000, -0.000000
+[debug] Graph: 2d node created, normal: 0.000540, 0.998346, 0.057496
+[debug] Graph: 2d node created, normal: 0.002791, 0.997964, 0.063721
+[debug] Graph: 2d node created, normal: 0.002791, 0.997964, 0.063718
+[debug] Graph: 2d node created, normal: 0.002751, 0.997967, 0.063672
+[debug] Graph: 2d node created, normal: 0.002794, 0.997964, 0.063717
+[debug] Graph: 2d node created, normal: 0.002789, 0.997964, 0.063720
+[debug] Graph: 2d node created, normal: 0.002742, 0.997966, 0.063690
+[debug] Graph: 2d node created, normal: 0.017001, 0.995335, 0.094968
+[debug] Graph: 2d node created, normal: -0.000548, 1.000000, 0.000289
+[debug] Graph: 2d node created, normal: -0.000454, 1.000000, 0.000421
+[debug] Graph: 2d node created, normal: -0.000330, 1.000000, 0.000524
+[debug] Graph: 2d node created, normal: -0.000183, 1.000000, 0.000592
+[debug] Graph: 2d node created, normal: 0.059129, 0.998237, 0.005257
+[debug] Graph: 2d node created, normal: 0.000138, 1.000000, 0.000604
+[debug] Graph: 2d node created, normal: 0.000289, 1.000000, 0.000548
+[debug] Graph: 2d node created, normal: 0.000421, 1.000000, 0.000454
+[debug] Graph: 2d node created, normal: 0.000524, 1.000000, 0.000330
+[debug] Graph: 2d node created, normal: 0.021456, 0.998032, -0.058922
+[debug] Graph: 2d node created, normal: 0.004023, 0.998445, -0.055604
+[debug] Graph: 2d node created, normal: -0.002471, 0.997602, -0.069161
+[debug] Graph: 2d node created, normal: -0.002836, 0.997916, -0.064469
+[debug] Graph: 2d node created, normal: -0.002538, 0.997895, -0.064808
+[debug] Graph: 2d node created, normal: -0.002377, 0.998121, -0.061219
+[debug] Graph: 2d node created, normal: -0.002443, 0.997753, -0.066953
+[debug] Graph: 2d node created, normal: -0.002420, 0.997870, -0.065185
+[debug] Graph: 2d node created, normal: -0.002375, 0.998115, -0.061317
+[debug] Graph: 2d node created, normal: -0.001887, 0.998242, -0.059242
+[debug] Graph: 2d node created, normal: 0.004385, 0.999990, -0.000494
+[debug] Graph: 2d node created, normal: 0.004195, 0.999990, -0.001347
+[debug] Graph: 2d node created, normal: 0.003897, 0.999990, -0.002056
+[debug] Graph: 2d node created, normal: -0.018174, 0.999747, -0.013284
+[debug] Graph: 2d node created, normal: -0.054954, 0.997932, -0.033354
+[debug] Graph: 2d node created, normal: -0.055590, 0.997880, -0.033855
+[debug] Graph: 2d node created, normal: -0.027042, 0.999505, -0.016057
+[debug] Graph: 2d node created, normal: 0.000931, 0.999990, -0.004307
+[debug] Graph: 2d node created, normal: -0.000047, 0.999990, -0.004401
+[debug] Graph: 2d node created, normal: -0.000531, 0.999990, -0.004378
+[debug] Graph: 2d node created, normal: -0.001283, 0.999990, -0.004220
+[debug] Graph: 2d node created, normal: -0.001996, 0.999990, -0.003932
+[debug] Graph: 2d node created, normal: -0.002648, 0.999990, -0.003526
+[debug] Graph: 2d node created, normal: -0.003221, 0.999990, -0.003013
+[debug] Graph: 2d node created, normal: -0.003695, 0.999990, -0.002408
+[debug] Graph: 2d node created, normal: -0.004057, 0.999990, -0.001729
+[debug] Graph: 2d node created, normal: -0.004296, 0.999990, -0.000999
+[debug] Graph: 2d node created, normal: -0.003788, 0.998574, 0.053252
+[debug] Graph: 2d node created, normal: -0.001677, 0.999073, 0.043023
+[debug] Graph: 2d node created, normal: -0.004379, 0.999990, 0.000232
+[debug] Graph: 2d node created, normal: -0.005817, 0.999326, -0.036239
+[debug] Graph: 2d node created, normal: -0.006879, 0.998279, -0.058243
+[debug] Graph: 2d node created, normal: -0.007025, 0.997935, -0.063842
+[debug] Graph: 2d node created, normal: -0.006413, 0.999406, -0.033869
+[warn   ] material: Track uses deprecated texture 'concrete.png'
+[warn   ] material: Track uses deprecated texture 'redwhite.png'
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/city_concrete.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/cs_tux_body.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/snowmountain/door.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/snowmountain/rockmountain.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/rockwall.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/roof.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/tracks/snowmountain/window2.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/wood_planks1.jpg!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] MaterialManager: Couldn't find cached SP material! Opening default /Users/simon/University/stk-testing/stk-assets/textures/stktex_generic_WoodC.png!
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_logBarrier_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_oldLantern_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_redXmasLight_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_woodLodge_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] Scripting: File does not exist : /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/Resources/data/../../stk-assets/library/stklib_woodPostLamp_a/scripting.as
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[debug] TrackObject: Empty IPO, discard.
+[info   ] Track: Overall scene complexity estimated at 142, Auto-LoD multiplier is 2.773872
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] MaterialManager: Couldn't find cached SP material! Opening default !
+[debug] Scripting: Scripting function was not found : void stklib_logBarrier_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_logBarrier_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_oldLantern_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_oldLantern_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_redXmasLight_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_redXmasLight_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_woodLodge_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_woodLodge_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void stklib_woodPostLamp_a::onStart(const string)
+[debug] Scripting: Scripting function was not found : void stklib_woodPostLamp_a::onReset(const string)
+[debug] Scripting: Scripting function was not found : void onStart()
+[debug] Scripting: Scripting function was not found : void onKartKartCollision(int, int)
+[verbose  ] profile: Number of frames: 10124 time 0.532000, Average FPS: 19030.074219
+[verbose  ] profile: name start_position end_position time average_speed top_speed skid_time rescue_time rescue_count brake_count explosion_time explosion_count bonus_count banana_count small_nitro_count large_nitro_count bubblegum_count
+[verbose  ] profile: gavroche Skidding 1 1 72.8539 15.7433 20 0 0 0 0 0 0 0 1 1 0 0 0 
+[verbose  ] profile: adiumy Skidding 2 3 79.3219 14.4595 20.24 0 0 0 0 -75.5167 1 3 2 2 1 0 0 
+[verbose  ] profile: tux Skidding 3 2 76.0873 15.0743 17.027 0 0 0 0 -61.2917 1 2 2 3 0 0 0 
+[verbose  ] profile: min 72.853867  max 79.321945  av 76.087700
+
+[verbose  ] profile: 
+[verbose  ] profile: name     Strt End  Time    AvSp  Top   Skid  Resc Rsc Brake Expl Exp Itm Ban SNitLNit Bub Off Energy
+[verbose  ] profile: Skidding    1   1  72.85 15.74 20.00   0.00 0.00   0     0 0.00   0   0   1   1   0   0     0 0.00
+[verbose  ] profile: Skidding    2   3  79.32 14.46 20.24   0.00 0.00   0     0 -75.52   1   3   2   2   1   0     0 5.00
+[verbose  ] profile: Skidding    3   2  76.09 15.07 17.03   0.00 0.00   0     0 -61.29   1   2   2   3   0   0     0 3.00
+[verbose  ] profile: ---------------------------------------------------------------------------------------------------
+[verbose  ] profile: Skidding   +0      76.0877             0.00 0.00   0     0 -136.81   2   5   5   6   1   0     0 8.00
+[verbose  ] profile: 
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+        1.49 real         1.02 user         0.37 sys
+           112967680  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                7938  page reclaims
+                  27  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                  27  voluntary context switches
+                 647  involuntary context switches
+         10989515761  instructions retired
+          2698945237  cycles elapsed
+            47417408  peak memory footprint

@@ -1,0 +1,175 @@
+/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/MacOS/supertuxkart --no-graphics --no-sound --log=0 --help
+
+Usage: /Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/MacOS/supertuxkart [OPTIONS]
+
+Run SuperTuxKart, a go-kart racing game that features Tux and friends.
+
+Options:
+  -N,  --no-start-screen  Immediately start race without showing a menu.
+  -R,  --race-now         Same as -N but also skip the ready-set-go phase and the music.
+       --use-keyboard=N   Used in conjunction with the -N or -R option, will assign the player to the specified keyboard. Is zero indexed.
+       --use-gamepad=N    Used in conjunction with the -N or -R option, will assign the player to the specified gamepad. Is zero indexed.
+  -t,  --track=NAME       Start track NAME.
+       --gp=NAME          Start the specified Grand Prix.
+       --add-gp-dir=DIR   Load Grand Prix files in DIR. Setting will be savedin config.xml under additional_gp_directory. Use--add-gp-dir="" to unset.
+       --stk-config=FILE  use ./data/FILE instead of ./data/stk_config.xml
+  -k,  --numkarts=NUM     Set number of karts on the racetrack.
+       --kart=NAME        Use kart NAME.
+       --ai=a,b,...       Use the karts a, b, ... for the AI, and additional player kart.
+       --aiNP=a,b,...     Use the karts a, b, ... for the AI, no additional player kart.
+       --laps=N           Define number of laps to N, if used in a server all races will use this value.
+       --mode=N           N=0 Normal, N=1 Time trial, N=2 Battle, N=3 Soccer,
+                          N=4 Follow The Leader, N=5 Capture The Flag. In configure server use --battle-mode=n
+                          for battle server and --soccer-timed / goals for soccer server
+                          to control verbosely, see below:
+       --difficulty=N     N=0 Beginner, N=1 Intermediate, N=2 Expert, N=3 SuperTux.
+       --battle-mode=n    Specify battle mode in network, 0 is Free-For-All and
+                          1 is Capture The Flag.
+       --soccer-timed     Use time limit mode in network soccer game.
+       --soccer-goals     Use goals limit mode in network soccer game.
+       --capture-limit    Specify capture limit for CTF.
+       --time-limit       Specify time limit for current game mode.
+       --reverse          Play track in reverse (if allowed)
+  -f,  --fullscreen       Use fullscreen display.
+  -w,  --windowed         Use windowed display (default).
+  -s,  --screensize=WxH   Set the display size (e.g. 320x200).
+  -v,  --version          Print version of SuperTuxKart.
+       --trackdir=DIR     A directory from which additional tracks are loaded.
+       --seed=n           Seed for random number generation to provide reproducible behavior.
+       --profile-laps=n   Enable automatic driven profile mode for n laps.
+       --profile-time=n   Enable automatic driven profile mode for n seconds.
+       --benchmark        Start Benchmark Mode, save results and exit.
+       --benchmark-file=file Specify which benchmark replay file to use.
+       --unlock-all       Permanently unlock all karts and tracks for testing.
+       --no-unlock-all    Disable unlock-all (i.e. base unlocking on player achievement).
+       --xmas=n           Toggle Xmas/Christmas mode. n=0 Use current date, n=1, Always enable,
+                          n=2, Always disable.
+       --easter=n         Toggle Easter ears mode. n=0 Use current date, n=1, Always enable,
+                          n=2, Always disable.
+       --no-graphics      Do not display the actual race.
+       --sp-shader-debug  Enables debug in sp shader, it will print all unavailable uniforms.
+       --demo-mode=t      Enables demo mode after t seconds of idle time in main menu.
+       --demo-tracks=t1,t2 List of tracks to be used in demo mode. No
+                          spaces are allowed in the track names.
+       --demo-laps=n      Number of laps to use in a demo.
+       --demo-karts=n     Number of karts to use in a demo.
+       --history          Replay history file 'history.dat'.
+       --server-config=file Specify the server_config.xml for server hosting, it will create
+                            one if not found.
+       --network-console  Enable network console.
+       --wan-server=name  Start a Wan server (not a playing client).
+       --public-server    Allow direct connection to the server (without stk server)
+       --lan-server=name  Start a LAN server (not a playing client).
+       --server-password= Sets a password for a server (both client and server).
+       --connect-now=ip   Connect to a server with IP or domain known now
+                          (in format x.x.x.x:xxx(optional port)), the port should be its
+                          public port, you can use [::] to replace x.x.x.x for IPv6 address.
+       --server-id=n      Server id in stk addons for --connect-now.
+       --network-ai=n     Numbers of AI for connecting to linear race server, used
+                          together with --connect-now.
+       --login=s          Automatically log in (set the login).
+       --password=s       Automatically log in (set the password).
+       --init-user        Save the above login and password (if set) in config.
+       --disable-polling  Don't poll for logged in user.
+       --port=n           Port number to use.
+       --auto-connect     Automatically connect to first server and start race
+       --max-players=n    Maximum number of clients (server only).
+       --min-players=n    Minimum number of clients for ownerless server(server only).
+       --motd             Message showing in all lobby of clients, can specify a .txt file.
+       --auto-end         Automatically end network game after 1st player finished
+                          for some time (currently his finished time * 0.25 + 15.0). 
+       --no-auto-end      Don't automatically end network game after 1st player finished
+       --team-choosing    Enable choosing team in lobby for team game.
+       --no-team-choosing Disable choosing team in lobby for team game.
+       --network-gp=n     Specify number of tracks used in network grand prix.
+       --graphical-server Enable graphical view in server.
+       --no-validation    Allow non validated and unencrypted connection in wan.
+       --ranked           Server will submit ranking to stk addons server.
+       --no-ranked        Server will not submit ranking to stk addons server.
+                          You require permission for that.
+       --owner-less       Race will autostart and no one can kick players in server.
+       --no-owner-less    Race will not autostart and server owner can kick players in server.
+       --firewalled-server Turn on all stun related code in server.
+       --no-firewalled-server Turn off all stun related code in server.
+       --connection-debug Print verbose info for sending or receiving packets.
+       --no-console-log   Does not write messages in the console but to
+                          stdout.log.
+  -h,  --help             Show this help.
+       --help-debug       Show help for debugging options.
+       --log=N            Set the verbosity to a value between
+                          0 (Debug) and 5 (Only Fatal messages)
+       --logbuffer=N      Buffers up to N lines log lines before writing.
+       --root=DIR         Path to add to the list of STK root directories.
+                          You can specify more than one by separating them
+                          with colons (:).
+       --cutscene=NAME    Launch the specified track as a cutscene.
+                          This is for internal debugging use only.
+       --gfx-preset=n     Set the graphics settings to the selected preset.
+                          Valid values for this STK version are between 1 and 7.
+                          Other graphic command-line parameters will override the preset.
+       --enable-glow      Enable glow effect.
+       --disable-glow     Disable glow effect.
+       --enable-bloom     Enable bloom effect.
+       --disable-bloom    Disable bloom effect.
+       --enable-light-shaft Enable light shafts (God rays).
+       --disable-light-shaft Disable light shafts (God rays).
+       --enable-dof       Enable depth of field.
+       --disable-dof      Disable depth of field.
+       --enable-particles  Enable particles.
+       --disable-particles Disable particles.
+       --enable-animated-characters  Enable animated characters.
+       --disable-animated-characters Disable animated characters.
+       --enable-motion-blur Enable motion blur.
+       --disable-motion-blur Disable motion blur.
+       --enable-mlaa      Enable anti-aliasing.
+       --disable-mlaa     Disable anti-aliasing.
+       --enable-texture-compression Enable texture compression.
+       --disable-texture-compression Disable texture compression.
+       --enable-ssao      Enable screen space ambient occlusion.
+       --disable-ssao     Disable screen space ambient occlusion.
+       --enable-ibl       Enable image based lighting.
+       --disable-ibl      Disable image based lighting.
+       --enable-hd-textures Enable high definition textures.
+       --disable-hd-textures Disable high definition textures.
+       --enable-pcss      Enable percentage-closer soft shadows.
+       --disable-pcss     Disable percentage-closer soft-shadows.
+       --enable-ssr       Enable screen space reflections.
+       --disable-ssr      Disable screen space reflections.
+       --enable-light-scatter  Enable light scattering.
+       --disable-light-scatter Disable light scattering.
+       --enable-dynamic-lights Enable advanced pipeline.
+       --disable-dynamic-lights Disable advanced pipeline.
+       --anisotropic=n     Anisotropic filtering quality (0 to disable).
+                           Takes precedence over trilinear or bilinear texture filtering.
+       --shadows=n         Set resolution of shadows (0 to disable).
+       --geometry-level=n  Sets the LoD distances. Supported values range from 0 to 5.
+       --rtt-scale=n       Sets the render resolution as a percentage of the base resolution.
+                           Only works if dynamic lights are active.       --render-driver=n   Render driver to use (gl or directx9).
+       --disable-addon-karts Disable loading of addon karts.
+       --disable-addon-tracks Disable loading of addon tracks.
+       --dump-official-karts Dump official karts for current stk-assets.
+       --apitrace          This will disable buffer storage and
+                           writing gpu query strings to opengl, which
+                           can be seen later in apitrace.
+       --wii               Enable usage of Wii Remotes.
+
+You can visit SuperTuxKart's homepage at https://supertuxkart.net
+
+        0.08 real         0.07 user         0.00 sys
+            17661952  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1466  page reclaims
+                   7  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   8  involuntary context switches
+           613599476  instructions retired
+           172566220  cycles elapsed
+             3851456  peak memory footprint

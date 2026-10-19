@@ -1,0 +1,23 @@
+/Users/simon/University/stk-testing/stk-code/build-release/bin/supertuxkart.app/Contents/MacOS/supertuxkart --no-graphics --no-sound --log=0 --version
+
+[info   ] main: ==============================
+[info   ] main: SuperTuxKart, git.
+[info   ] main: ==============================
+        0.09 real         0.08 user         0.00 sys
+            17956864  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1486  page reclaims
+                   7  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  21  involuntary context switches
+           615482778  instructions retired
+           176632150  cycles elapsed
+             3867840  peak memory footprint
